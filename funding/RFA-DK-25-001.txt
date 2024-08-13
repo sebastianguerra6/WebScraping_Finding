@@ -1,0 +1,983 @@
+<!-- Google Tag Manager -->
+<!-- ADDED ON 05/01/2023 -->
+<!-- All services and snippets (AKA tags) have been removed from this file -->
+<!-- They are handled in the ralated container in Google Tag Manger -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR2CDD');</script>
+<!-- End Google Tag Manager -->
+<html lang="en-US">
+<head>
+<title>RFA-DK-25-001: Addressing the Impact of Syndemics on the Health of People with HIV and Diseases and Conditions within the Missions of NIDDK and NHLBI (R01 Clinical Trial Optional)</title>
+<meta content="NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Addressing the Impact of Syndemics on the Health of People with HIV and Diseases and Conditions within the Missions of NIDDK and NHLBI (R01 Clinical Trial Optional) RFA-DK-25-001. NIDDK" name="description"/>
+<meta content="RFA-DK-25-001: Addressing the Impact of Syndemics on the Health of People with HIV and Diseases and Conditions within the Missions of NIDDK and NHLBI (R01 Clinical Trial Optional)" name="Keywords"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="../guide_styles/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../guide_styles/css/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<body onload="initContent()">
+<div class="container">
+<div class="row">
+<div class="heading1" id="page-title" tabindex="0">Department of Health and Human Services</div>
+<div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172098" data-element-required="false" data-element-type="TEXT" data-section-code="OI">
+<a name="_Part_1._Overview"></a><h1 class="heading1">Part 1. Overview Information</h1>
+</div>
+<div class="row" data-index="2">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172099" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+					Participating Organization(s) 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>National Institutes of Health (<a href="http://www.nih.gov">NIH</a>)</p>
+</div>
+</div>
+<div class="row" data-index="3">
+<div class="col-md-push-4 col-md-8 datacolumn">
+</div>
+</div>
+<div class="row" data-index="4">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172101" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Components of Participating Organizations 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>National Institute of Diabetes and Digestive and Kidney Diseases (<a href="https://www.niddk.nih.gov/" rel="noreferrer" target="_blank">NIDDK</a>)
+	<p>National Heart, Lung, and Blood Institute (<a href="https://www.nhlbi.nih.gov/" rel="noreferrer" target="_blank">NHLBI</a>)
+	</p>
+<p>All applications to this funding opportunity announcement should fall within the mission of the Institutes/Centers. The following NIH Offices may co-fund applications assigned to those Institutes/Centers.
+ 	</p>
+<p>Office of Research on Women's Health (<a href="https://orwh.od.nih.gov/" rel="noreferrer" target="_blank">ORWH</a>)
+		</p>
+</p></div>
+</div>
+<div class="row" data-index="5">
+<div class="col-md-push-4 col-md-8 datacolumn">
+</div>
+</div>
+<div class="row" data-index="6">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172103" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Funding Opportunity Title 
+			</div>
+<div class="col-md-8 datacolumn">
+<span class="title">Addressing the Impact of Syndemics on the Health of People with HIV and Diseases and Conditions within the Missions of NIDDK and NHLBI (R01 Clinical Trial Optional)</span>
+</div>
+</div>
+<div class="row" data-index="7">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172104" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+					Activity Code 
+			</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal"><a href="//grants.nih.gov/grants/funding/ac_search_results.htm?text_curr=r01&amp;Search.x=0&amp;Search.y=0&amp;Search_Type=Activity">R01</a> Research Project Grant</p>
+</div>
+</div>
+<div class="row" data-index="8">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172105" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Announcement Type 
+			</div>
+<div class="col-md-8 datacolumn">
+                New 
+		</div>
+</div>
+<div class="row" data-index="9">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172106" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+					Related Notices 
+			</div>
+<div class="col-md-8 datacolumn">
+<ul>
+<li class="Normal"><strong>August 31, 2022</strong>- Implementation Changes for Genomic Data Sharing Plans Included with Applications Due on or after January 25, 2023. See Notice <a href="https://grants.nih.gov/grants/guide/notice-files/not-od-22-198.html">NOT-OD-22-198</a>.</li>
+<li class="Normal"><strong>August 5, 2022</strong>- Implementation Details for the NIH Data Management and Sharing Policy. See Notice <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-189.html">NOT-OD-22-189</a>.</li>
+</ul>
+</div>
+</div>
+<div class="row" data-index="10">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172107" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Funding Opportunity Number (FON) 
+			</div>
+<div class="col-md-8 datacolumn">
+<span class="noticenum">RFA-DK-25-001</span>
+</div>
+</div>
+<div class="row" data-index="11">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172108" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Companion Funding Opportunity 
+			</div>
+<div class="col-md-8 datacolumn">
+                None 
+		</div>
+</div>
+<div class="row" data-index="12">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172109" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+					Number of Applications 
+			</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal">See Section III. 3. Additional Information on Eligibility.</p>
+</div>
+</div>
+<div class="row" data-index="13">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172110" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+					Assistance Listing Number(s) 
+			</div>
+<div class="col-md-8 datacolumn">
+                93.847, 93.313, 93.233, 93.839, 93.837, 93.838, 93.840 
+		</div>
+</div>
+<div class="row" data-index="14">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172111" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+					Funding Opportunity Purpose 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>This Notice of Funding Opportunity (NOFO) invites research projects that seek solutions to the development, exacerbation, and ineffective management of co-occurring conditions in marginalized communities of People with HIV (PWH). Projects must be based on a syndemics (synergistic epidemic) framework with a focus on the impact of racism, marginalization, discrimination, and/or stigma and their inter-relationships with social and structural risks. Projects may use mechanistic interventional approaches, policy/program evaluation studies, or epidemiology studies that build the evidence base to support improved equity and outcomes. The co-occurring conditions must be within the mission of NIDDK or NHLBI.</p><p>This NOFO requires a Plan for Enhancing Diverse Perspectives (PEDP), which will be assessed as part of the scientific and technical peer review evaluation. Applications that fail to include a PEDP will be considered incomplete and will be withdrawn. Applicants are strongly encouraged to read the NOFO instructions carefully and view the available PEDP <a href="https://braininitiative.nih.gov/about/plan-enhancing-diverse-perspectives-pedp">guidance material</a>,</p>
+</div>
+</div>
+<!--This variable defines that we need to start a new row. -->
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172112" data-element-required="true" data-element-type="TEXT" data-section-code="KD">
+<a name="_Key_Dates"></a><h2 class="heading2">Key Dates</h2>
+</div>
+<div class="row" data-index="16">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172113" data-element-required="true" data-element-type="DATE" data-section-code="KD" tabindex="0">
+					Posted Date 
+			</div>
+<div class="col-md-8 datacolumn">
+                November 30, 2023 
+		</div>
+</div>
+<div class="row" data-index="17">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172114" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="KD" tabindex="0">
+					Open Date (Earliest Submission Date) 
+			</div>
+<div class="col-md-8 datacolumn">
+                February 20, 2024 
+		</div>
+</div>
+<div class="row" data-index="18">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172115" data-element-required="true" data-element-type="TEXT" data-section-code="KD" tabindex="0">
+					Letter of Intent Due Date(s) 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>30 days prior to the application due date</p>
+</div>
+</div>
+<!--This variable defines that we need to start a new row. -->
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172116" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="KD">
+<table class="table table-bordered table-striped table-hover eraDataTable" id="keyDatesContentTable">
+<thead>
+<tr>
+<th class="text-center" colspan="3" scope="col" style="border:2px solid #bcbcbc;">Application Due Dates</th>
+<th class="text-center" colspan="3" scope="col" style="border:2px solid #bcbcbc;">Review and Award Cycles</th>
+</tr>
+<tr>
+<th class="text-center" scope="col" style="width:16.66%;border-left:2px solid #bcbcbc;">New</th>
+<th class="text-center" scope="col" style="width:16.66%">Renewal / Resubmission / Revision (as allowed)</th>
+<th class="text-center" scope="col" style="width:16.66%;border-right:2px solid #bcbcbc;">AIDS - New/Renewal/Resubmission/Revision, as allowed</th>
+<th class="text-center" scope="col" style="width:16.66%">Scientific Merit Review</th>
+<th class="text-center" scope="col" style="width:16.66%">Advisory Council Review</th>
+<th class="text-center" scope="col" style="width:16.66%;border-right:2px solid #bcbcbc;">Earliest Start Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+							Not Applicable
+					</td>
+<td>
+							Not Applicable
+					</td>
+<td>
+							March 20, 2024
+					</td>
+<td>July 2024</td>
+<td>							October 2024
+
+					</td>
+<td>December 2024</td>
+</tr>
+<tr>
+<td>
+							Not Applicable
+					</td>
+<td>
+							Not Applicable
+					</td>
+<td>
+							March 20, 2025
+					</td>
+<td>July 2025</td>
+<td>							October 2025
+
+					</td>
+<td>December 2025</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172117" data-element-required="false" data-element-type="TEXT" data-section-code="KD">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172118" data-element-required="true" data-element-type="TEXT" data-section-code="KD">
+<p class="Normal">All applications are due by 5:00 PM local time of applicant organization. </p>
+<p class="Normal">Applicants are encouraged to apply early to allow adequate time to make any corrections to errors found in the application during the submission process by the due date.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172119" data-element-required="false" data-element-type="CHECKBOX" data-section-code="KD">
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172120" data-element-required="false" data-element-type="TEXT" data-section-code="KD">
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172121" data-element-required="false" data-element-type="TEXT" data-section-code="KD">
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172122" data-element-required="false" data-element-type="TEXT" data-section-code="KD">
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172123" data-element-required="false" data-element-type="TEXT" data-section-code="KD">
+</div>
+<div class="row" data-index="27">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172124" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="KD" tabindex="0">
+					Expiration Date 
+			</div>
+<div class="col-md-8 datacolumn">
+                March 21, 2025 
+		</div>
+</div>
+<div class="row" data-index="28">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172125" data-element-required="true" data-element-type="TEXT" data-section-code="KD" tabindex="0">
+					Due Dates for E.O. 12372  
+			</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal">Not Applicable</p>
+</div>
+</div>
+<!--This variable defines that we need to start a new row. -->
+<div class="heading4" data-element-has-value="true" data-element-id="172126" data-element-required="true" data-element-type="TEXT" data-section-code="KD" tabindex="0">
+						Required Application Instructions 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172126" data-element-required="true" data-element-type="TEXT" data-section-code="KD">
+<p class="Normal">It is critical that applicants follow the instructions in the Research (R) Instructions in the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply - Application Guide</a>, except where instructed to do otherwise (in this NOFO or in a Notice from <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11164">NIH Guide for Grants and Contracts</a>).</p>
+<p class="Normal">Conformance to all requirements (both in the Application Guide and the NOFO) is required and strictly enforced. Applicants must read and follow all application instructions in the Application Guide as well as any program-specific instructions noted in Section IV. When the program-specific instructions deviate from those in the Application Guide, follow the program-specific instructions.</p>
+<p class="Normal"><strong>Applications that do not comply with these instructions may be delayed or not accepted for review.</strong></p>
+</div>
+<div id="tocDiv">
+<style>
+.assist_button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+.important {
+	color: #F00;
+	font-weight: bold;
+	font-size 14px;
+	}
+</style>
+<p>There are several options available to submit your application through Grants.gov to NIH and 
+            Department of Health and Human Services partners. You <b>must</b> use one of these submission 
+            options to access the application forms for this opportunity.</p>
+<ol>
+<li>Use the NIH ASSIST system to prepare, submit and track your application online.
+            <form action="https://public.era.nih.gov/assist" method="post" target="new">
+<input class="assist_button" name="button" type="submit" value="Apply Online Using ASSIST"/>
+</form>
+</li>
+<li>Use an institutional system-to-system (S2S) solution to prepare and submit your application 
+            to Grants.gov and <a href="https://public.era.nih.gov/commons/">eRA Commons</a> to track your 
+            application. Check with your institutional officials regarding availability. <br/><br/></li>
+<li>Use <a href="https://grants.gov/search-grants?oppStatuses=closed|archived|posted|forecasted&amp;fon=RFA-DK-25-001" target="_new">Grants.gov</a> 
+                Workspace to prepare and submit your application and 
+                <a href="http://public.era.nih.gov/commons/">eRA Commons</a> to track your application.</li>
+<br/><br/>
+<div class="heading1" tabindex="0">Table of Contents</div>
+<div class="toc-link"><a href="#_Part_1._Overview">Part 1. Overview Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Key_Dates">Key Dates
+</a></div><div class="toc-link"><a href="#_Part_2._Full">Part 2. Full Text of Announcement
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section I. Notice of Funding Opportunity Description">Section I. Notice of Funding Opportunity Description</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_II._Award_1">Section II. Award Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_III._Eligibility">Section III. Eligibility Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_IV._Application_1">Section IV. Application and Submission Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_V._Application">Section V. Application Review Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_VI._Award">Section VI. Award Administration Information
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_VII._Agency">Section VII. Agency Contacts
+</a></div><div class="toc-link P_SingleIndent"><a href="#_Section_VIII._Other">Section VIII. Other Information
+</a></div>
+</ol></div><br/>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172128" data-element-required="true" data-element-type="TEXT" data-section-code="FOD">
+<a name="_Part_2._Full"></a><h1 class="heading1">Part 2. Full Text of Announcement</h1>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172129" data-element-required="true" data-element-type="TEXT" data-section-code="FOD">
+<a name="_Section I. Notice of Funding Opportunity Description"></a><h2 class="heading2">Section I. Notice of Funding Opportunity Description</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172130" data-element-required="true" data-element-type="TEXT" data-section-code="FOD">
+<p><strong>Background</strong></p><p>Intersectional stigma and discrimination based on multiple factors - such as race, ethnicity, sexuality, and gender identity - can result in greater marginalization and increased social risks, and can impact the management of comorbidities and co-infections in PWH across the lifespan. PWH often have multiple intersecting marginalized identities. For example, most new cases of HIV in the United States occur in gay and bisexual men and men who have sex with men (MSM) who are African-American/Black or Latino. African-American/Black women and transgender women are also disproportionately affected by HIV. In addition, other populations of PWH often experience marginalizing stigmas and challenges. These groups include, but are not limited to, sex workers, people involved with the justice system, young people experiencing homelessness without a guardian, older people, people with disabilities, rural residents, people living alone or in isolation, and people lacking access to health care.  Half of all PWH are aged 50 or older and experience specific challenges associated with aging. Access to health services is limited by socioeconomic status and geographical location, and young people experiencing homelessness without a guardian may also lack access to health care.  Moreover, there are often stigmas associated with co-occurring conditions as well as with HIV itself.  </p><p>Social determinants of health (SDoH) are the conditions in which people are born, grow, learn, work, play, live, and age, and the wider set of structural factors shaping the conditions of daily life. These structural factors include social, economic, and legal forces, systems, and policies that determine opportunities and access to high quality jobs, education, housing, transportation, built environment, information and communication infrastructure, food, and health care; the social environment; and other conditions of daily life.  For example, they could influence health-seeking behavior, retention in care, undergoing tests and procedures, or adherence to treatment regimens. How individuals and multiple communities of people with intersecting marginalized identities experience SDoH such as food, housing, and economic insecurity will vary.  Health behavior determinants can be operable at one or more levels of influence, including the PWH, caregiver/family, support circle, health care provider, healthcare system, and community levels.  Multiple interventions tailored to diverse lived experiences and populations are therefore needed. </p><p><strong>Objectives and Scope</strong></p><p>This Notice of Funding Opportunity (NOFO) invites projects that address the impact of SDoH on comorbidities and co-infections within populations that experience racism, marginalization, discrimination, or stigma. These include racial and ethnic minority groups as defined by U.S. Office of Management and Budget (OMB), women, sexual minorities, gender minorities, and people with intersecting identities. It also invites projects focused on other key populations of PWH and other communities, such as, but not limited to, sex workers, people involved with the justice system, young people experiencing homelessness without a guardian, older people, people with disabilities, rural residents, people living alone or in isolation, and people lacking access to health care. Projects may address how SDoH impact the development or exacerbation of comorbidities or co-infections and/or how effective interventions alleviate comorbidities or co-infections and improve subsequent health or well-being.  The comorbidities and co-infections pursued must be within the mission of NIDDK and/or NHLBI.  </p><p>This initiative seeks mechanistic interventional approaches, inclusive of basic behavioral and social sciences research, policy/program evaluation studies and epidemiolical research toward advancing the understanding of syndemic interrelationships. Projects utilizing epidemiology approaches need to specify how the findings will build the evidence base to support action and improve outcomes for the relevant population. Additionally, this initiative could support dissemination and implementation (D&amp;I) research directed at addressing syndemics faced by PWH by utilizing multidisciplinary partnerships to identify the facilitators and barriers impacting access and adherence to prevention, care, and treatment. Furthermore, when evidence-based interventions exist, researchers and community partners can co-design appropriate strategies to promote the uptake of guideline-based care within vulnerable communities.</p><p>Because HIV-associated syndemic research requires strong transdisciplinary collaboration in the areas of HIV SDoH/epidemiology and various specialties relevant to the diseases and conditions under study among others (e.g., medical anthropology, sociology, health disapities/health equity, public health, and behavioral health), a multiple PD/PI format is required with at least one PD/PI with expertise in HIV syndemics and at least one PD/PI with expertise in the relevant condition(s) being addressed by the study.  Additional PDs/PIs may also be included if their expertise is critical to the success of the project.</p><p>Because this NOFO is being issued to address the need to facilitate interdisciplinary collaboration between research communities, there is no expectation that the multiple PD/PI teams have a prior history of shared publications or otherwise evidence of extensive previous collaboration. The preliminary data, the rigor of the approach, and the Multiple PD/PI leadership plan can provide appropriate evidence of a strong and dedicated team engagement.</p><p>All aspects of the approach must be aligned with the guidelines outlined in <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-018.html">NOT-OD-20-018, UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding. </a> In other words, all of the proposed research must be undertaken in the context of HIV/AIDS.</p><p style="margin-left:0px;">Designs of interest include, but are not limited to:</p><ul><li>Community engaged research toward the development of interventions focused on communities of racial, ethnic, sexual, or gender minority communities.</li><li>Community engaged research toward the development of interventions focused on stigmatized populations such as sex workers or people involved with the justice system.</li><li>Community engaged research toward the development of interventions focused on communities with intersecting marginalized identities and stigmas.</li><li>Community engaged research focused on older people who are members of populations that experience racism, marginalization, or stigma. </li><li>Community engaged research focused on young people, including unhoused young people that are not accompanied by a parent.</li><li>Projects that evaluate the impact of policies or existing programs on populations that experience racism, marginalization, or stigma.  </li><li>Epidemiological approaches toward building the evidence base for the development of  interventions. </li></ul><p><strong>Plan for Enhancing Diverse Perspectives (PEDP)</strong></p><ul><li> This NOFO requires a Plan for Enhancing Diverse Perspectives (PEDP) as described in <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-MH-21-310.html">NOT-MH-21- 310</a>, submitted as Other Project Information as an attachment (see Section IV). </li><li> Applicants are strongly encouraged to read the NOFO instructions carefully and view the available <a href="https://braininitiative.nih.gov/about/plan-enhancing-diverse-perspectives-pedp">PEDP guidance material</a>. The PEDP will be assessed as part of the scientific and technical peer review evaluation, as well as considered among programmatic matters with respect to funding decisions.</li></ul><p style="margin-left:0px;"><strong>Interests of Specific Institutes/Centers/Offices</strong></p><p style="margin-left:0px;">The scientific interests of participating Institutes, Centers, and Offices (ICOs) are summarized below. Applicants are encouraged to contact the Scientific/Research contact of the intended IC to ensure that the aims of the proposed project are consistent with ICO mission and OAR's scientific priorities.</p><p style="margin-left:0px;"><strong>National Institute of Diabetes and Digestive and Kidney Diseases (</strong><a href="http://www.niddk.nih.gov/"><strong>NIDDK</strong></a><strong>)</strong></p><p style="margin-left:0px;">NIDDK is interested in projects geared toward mechanistic solutions to syndemic interactions leading to disparities in HIV-associated co-occurring conditions within its mission (diabetes and other endocrine and metabolic diseases; digestive diseases, nutritional disorders, and obesity; and kidney, urologic, and hematologic diseases). NIDDK encourages projects to use community engagement approaches in designing and implementing the proposed studies and to clearly describe the process they will use to facilitate meaningful sustainable collaboration with patients, caregivers, family members, community members, and other interested parties throughout the research process. Meaningful and equitable engagement should entail more than focus groups, surveys or other activities where affected people/communities are only involved as participants or respondents. </p><p style="margin-left:0px;">Areas of particular interest include, but are not limited to:</p><ul><li>Mechanistic interventional studies with strong community partnership that seek to improve engagement with the health care system for prevention or improved management of co-occurring conditions within the mission of NIDDK, including identification and elimination of implicit bias and structural racism in health care delivery.  </li><li>Projects that screen for and address the impact of adverse social determinants of health and related individual and family level social circumstances (e.g., housing insecurity, food insecurity, or transportation insecurity, etc.) and structural racism and discrimination (e.g., homophobia, transphobia, and stigma) on engagement with the health care system and prevention or management of diseases and conditions within the mission of NIDDK.</li><li>Research toward increasing feasibility, expansion, acceptability, and sustainability of evidence-based interventions for alleviating NIDDK-related co-occurring conditions throughout the life span in PWH experiencing racism, marginalization or stigma. </li><li>Alternative or adaptive clinical trial designs seeking to improve outcomes in PWH.</li><li>Projects that assess the impact of public policies and programs on effective prevention or management of NIDDK-related co-occurring conditions in racialized, marginalized, or stigmatized communities of PWH.</li><li>Dissemination and implementation research projects focused on marginalized, racialized, or stigmatized communities of PWH with co-occurring conditions within the mission of NIDDK.</li><li>Epidemiological studies for the purpose of identifying opportunities for development of new evidence-based interventions, improvement of existing interventions, or adaptation of existing interventions to PWH experiencing racism, marginalization, and stigma. </li></ul><p style="margin-left:0px;">This NOFO aligns with the Mission and Vision of the <a href="https://www.niddk.nih.gov/about-niddk/strategic-plans-reports/niddk-strategic-plan-for-research">NIDDK Strategic Plan for Research and the NIDDK Pathways to Health for All: Health Disparities and Health Equity Research Opportunities and Recommendations plan,</a> including the theme of empowering a multidisciplinary workforce, engaging diverse stakeholders, and pursuing pathways to health for all. </p><p style="margin-left:0px;"><strong>National Heart, Lung and Blood Institute (</strong><a href="http://www.nhlbi.nih.gov/"><strong>NHLBI</strong></a><strong>)</strong></p><p>Areas of particular interest include, but are not limited to:</p><ul><li>Collaborative studies to develop and/or evaluate holistic and equitable approaches and strategies in the clinical management of PWH who also have heart, lung, blood, or sleep (HLBS) comorbidities</li><li>Mechanistic interventional studies to address the impact of social determinants of health (such as housing insecurity, food insecurity, and economic security) on the development or exacerbation of HIV-associated HLBS comorbidities in racialized, marginalized, and/or stigmatized populations</li><li>Research evaluating resilience or susceptibility biomarkers associated with HLBS disorders and conditions for PWH</li><li>Mechanistic interventional studies to determine how effective interventions alleviate HLBS comorbidities and improve subsequent health and well-being</li><li>Studies evaluating how policies and programs can contribute to the development or furtherance of intersectional stigma experienced by PWH with intersecting identities, and interventions aimed at improving the management of HLBS comorbidities among these populations</li><li>Multidisciplinary studies to increase feasibility, scale-up, scale-out, acceptability, and sustainability of evidence-based interventions targeting syndemic HLBS conditions and diseases for PWH</li><li>Strategies targeting organizational structure, climate, culture, and processes to enable dissemination and implementation of clinical/public health information and effective interventions addressing syndemics to improve health of PWH</li><li>Strategies that improve the dissemination of evidence-based HLBS prevention strategies, risk factor screening tools, effective therapeutics, and procedures/guidelines addressing syndemics into existing health care systems impacting PWH, especially in instances when evidence-based strategies are underutilized.</li><li>Research to identify drivers of syndemic conditions impacting HIV-associated HLBS comorbidities by deciphering the facilitators and barriers to care for PWH including aging and vulnerable populations</li></ul><p style="margin-left:0px;"><strong>Office of Research on Women's Health (</strong><a href="https://orwh.od.nih.gov/"><strong>ORWH</strong></a><strong>)</strong></p><p>ORWH is part of the Office of the Director, NIH, and works with the 27 NIH Institutes and Centers to advance rigorous research of relevance to the health of women. ORWH does not award grants but co-funds women’s health-related applications and research projects that have received an award from one of the participating NIH Institutes and Centers (ICs) listed in the announcement. Applications seeking ORWH co-funding should ensure that the proposed work is aligned with at least one goal and objective outlined in the Trans-NIH Strategic Plan for Women’s Health Research (<a href="https://www.nih.gov/women/strategicplan">https://www.nih.gov/women/strategicplan</a>).</p><p>For this announcement, ORWH supports intersectional research projects that address topics of relevance to women – including cisgender, transgender, and gender diverse women – and individuals assigned female at birth. </p><p>Areas of particular interest include:</p><ul><li>Community engaged, woman-centered intervention development aimed at addressing the health of women with HIV</li><li>Community engaged research focused on women from understudied, underrepresented, and underreported (<a href="https://orwh.od.nih.gov/womens-health-research/interdisciplinary-research/u3-interdisciplinary-research">U3</a>) populations</li><li>Projects to evaluate the effect of local, state, and federal policies (for example, HIV nondisclosure laws, sexual and reproductive health restrictions, PrEP coverage, Medicaid expansion) on the health of women with HIV</li><li>Research aimed at understanding, addressing, and intervening upon gender-based violence/intimate partner violence and its impact on comorbidities</li></ul><p style="margin-left:0px;"><strong>Topics that are NOT responsive to this NOFO:</strong></p><ul><li>Projects that have one or more components that pursue diseases and conditions outside of the context of HIV/AIDS and therefore are ineligible for the use of HIV/AIDS-designated funds. The guidelines for allocation of HIV funding have been described most recently in <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-018.html">NOT-OD-20-018, UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding.</a> </li><li>Projects that propose to utilize a conventional comorbidity-only framework without taking into account contextual, non-biological elements such as social, behavioral, structural, psychological, or environmental factors.</li><li>Projects with a primary focus on diseases and conditions that are not within the mission of the NIDDK or NHLBI.  </li></ul><p>Non-responsive applications <strong>will be administratively withdrawn and will not be reviewed</strong> for this NOFO. Projects without a proposed Multiple PD/PI structure will be considered non-complaint and will not be reviewed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172131" data-element-required="true" data-element-type="TEXT" data-section-code="FOD">
+<p class="Normal">See <a href="#_Section_VIII._Other">Section VIII. Other Information</a> for award authorities and regulations.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172132" data-element-required="false" data-element-type="TEXT" data-section-code="FOD">
+<p class="Normal">Investigators proposing NIH-defined clinical trials may refer to the <a href="https://researchmethodsresources.nih.gov/">Research Methods Resources</a> website for information about developing statistical methods and study designs.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172133" data-element-required="true" data-element-type="TEXT" data-section-code="AI">
+<a name="_Section_II._Award_1"></a><h2 class="heading2">Section II. Award Information</h2>
+</div>
+<div class="row" data-index="37">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172134" data-element-required="true" data-element-type="TEXT" data-section-code="AI" tabindex="0">
+					Funding Instrument 
+			</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal">Grant: A financial assistance mechanism providing money, property, or both to an eligible entity to carry out an approved project or activity.</p>
+</div>
+</div>
+<div class="row" data-index="38">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172135" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="AI" tabindex="0">
+					 Application Types Allowed 
+			</div>
+<div class="col-md-8 datacolumn">
+                New
+	<br/>
+	Resubmission
+	<br/>
+</div>
+</div>
+<div class="row" data-index="39">
+<div class="col-md-push-4 col-md-8 datacolumn">
+<p>Resubmission applications are only allowed from this NOFO.</p>
+</div>
+</div>
+<div class="row" data-index="40">
+<div class="col-md-push-4 col-md-8 datacolumn">
+<p class="Normal">The <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11116">OER Glossary</a> and the SF424 (R&amp;R) Application Guide provide details on these application types. Only those application types listed here are allowed for this NOFO.</p>
+</div>
+</div>
+<div class="row" data-index="41">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172138" data-element-required="false" data-element-type="TEXT" data-section-code="AI" tabindex="0">
+					Clinical Trial? 
+			</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal">Optional: Accepting applications that either propose or do not propose clinical trial(s).</p>
+</div>
+</div>
+<div class="row" data-index="42">
+<div class="col-md-push-4 col-md-8 datacolumn">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82370">Need help determining whether you are doing a clinical trial?</a></p>
+</div>
+</div>
+<div class="row" data-index="43">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172140" data-element-required="true" data-element-type="TEXT" data-section-code="AI" tabindex="0">
+					Funds Available and Anticipated Number of Awards  
+			</div>
+<div class="col-md-8 datacolumn">
+<p>The following NIH components intend to commit the following amounts:</p><p>NIDDK intends to commit $3,300,000 in FY 2025 and $3,300,000 in FY 2026 to fund 4 - 5 awards each Fiscal Year.</p><p>NHLBI intends to commit $1,540,000 in FY 2025 and $1,540,000 in FY 2026  to fund 2 awards each Fiscal Year.</p><p>Funds available for ORWH co-funding are dependent upon appropriations.</p>
+</div>
+</div>
+<div class="row" data-index="44">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172141" data-element-required="true" data-element-type="TEXT" data-section-code="AI" tabindex="0">
+					Award Budget 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>Direct costs are limited to $500,000 per year and need to reflect the actual needs of the proposed project.</p>
+</div>
+</div>
+<div class="row" data-index="45">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="172142" data-element-required="true" data-element-type="TEXT" data-section-code="AI" tabindex="0">
+					Award Project Period 
+			</div>
+<div class="col-md-8 datacolumn">
+<p>The scope of the proposed project should determine the project period.  The maximum project period is 5 years.</p>
+</div>
+</div>
+<!--This variable defines that we need to start a new row. -->
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172143" data-element-required="true" data-element-type="TEXT" data-section-code="AI">
+<p class="Normal">NIH grants policies as described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11120">NIH Grants Policy Statement</a> will apply to the applications submitted and awards made from this NOFO.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172144" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<a name="_Section_III._Eligibility"></a><h2 class="heading2">Section III. Eligibility Information</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172145" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="heading4">1. Eligible Applicants</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172146" data-element-required="true" data-element-type="TEXT" data-section-code="EI" tabindex="0">
+						Eligible Organizations 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172146" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal">Higher Education Institutions</p>
+<ul>
+<li class="Normal">Public/State Controlled Institutions of Higher Education</li>
+<li class="Normal">Private Institutions of Higher Education</li>
+</ul>
+<p class="Normal" style="margin-left: 25px;">The following types of Higher Education Institutions are always encouraged to apply for NIH support as Public or Private Institutions of Higher Education:</p>
+<ul style="margin-left:25px;">
+<li class="Normal">Hispanic-serving Institutions</li>
+<li class="Normal">Historically Black Colleges and Universities (HBCUs)</li>
+<li class="Normal">Tribally Controlled Colleges and Universities (TCCUs)</li>
+<li class="Normal">Alaska Native and Native Hawaiian Serving Institutions</li>
+<li class="Normal">Asian American Native American Pacific Islander Serving Institutions (AANAPISIs)</li>
+</ul>
+<p class="Normal">Nonprofits Other Than Institutions of Higher Education</p>
+<ul>
+<li class="Normal">Nonprofits with 501(c)(3) IRS Status (Other than Institutions of Higher Education)</li>
+<li class="Normal">Nonprofits without 501(c)(3) IRS Status (Other than Institutions of Higher Education)</li>
+</ul>
+<p class="Normal">For-Profit Organizations</p>
+<ul>
+<li class="Normal">Small Businesses</li>
+<li class="Normal">For-Profit Organizations (Other than Small Businesses)</li>
+</ul>
+<p class="Normal">Local Governments</p>
+<ul>
+<li class="Normal">State Governments</li>
+<li class="Normal">County Governments</li>
+<li class="Normal">City or Township Governments</li>
+<li class="Normal">Special District Governments</li>
+<li class="Normal">Indian/Native American Tribal Governments (Federally Recognized)</li>
+<li class="Normal">Indian/Native American Tribal Governments (Other than Federally Recognized)</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172147" data-element-required="false" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal">Federal Governments</p>
+<ul>
+<li class="Normal">Eligible Agencies of the Federal Government</li>
+<li class="Normal">U.S. Territory or Possession</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172148" data-element-required="false" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal">Other</p>
+<ul>
+<li class="Normal">Independent School Districts</li>
+<li class="Normal">Public Housing Authorities/Indian Housing Authorities</li>
+<li class="Normal">Native American Tribal Organizations (other than Federally recognized tribal governments)</li>
+<li class="Normal">Faith-based or Community-based Organizations</li>
+<li class="Normal">Regional Organizations</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172149" data-element-required="false" data-element-type="TEXT" data-section-code="EI">
+</div>
+<div class="heading4" data-element-has-value="false" data-element-id="172150" data-element-required="true" data-element-type="TEXT" data-section-code="EI" tabindex="0">
+						Foreign Organizations 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="false" data-element-id="172150" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172151" data-element-required="true" data-element-type="RADIO_BUTTON" data-section-code="EI">
+<p class="Normal">Non-domestic (non-U.S.) Entities (Foreign Organizations) <strong>are not</strong> eligible to apply.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172152" data-element-required="true" data-element-type="RADIO_BUTTON" data-section-code="EI">
+<p>Non-domestic (non-U.S.) components of U.S. Organizations <strong>are not</strong> eligible to apply.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172153" data-element-required="true" data-element-type="RADIO_BUTTON" data-section-code="EI">
+<p>Foreign components, as <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11118">defined in the <em>NIH Grants Policy Statement</em></a>, <strong>are </strong>allowed. </p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172154" data-element-required="true" data-element-type="TEXT" data-section-code="EI" tabindex="0">
+						Required Registrations 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172154" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal"><strong>Applicant Organizations</strong></p>
+<p class="Normal">Applicant organizations must complete and maintain the following registrations as described in the SF 424 (R&amp;R) Application Guide to be eligible to apply for or receive an award. All registrations must be completed prior to the application being submitted. Registration can take 6 weeks or more, so applicants should begin the registration process as soon as possible. Failure to complete registrations in advance of a due date is not a valid reason for a late submission, please reference <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82423">NIH Grants Policy Statement Section 2.3.9.2 Electronically Submitted Applications</a> for additional information</p>
+<ul>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82390">System for Award Management (SAM) –</a> Applicants must complete and maintain an active registration, <strong>which requires renewal at least annually</strong>. The renewal process may require as much time as the initial registration. SAM registration includes the assignment of a Commercial and Government Entity (CAGE) Code for domestic organizations which have not already been assigned a CAGE Code.
+
+	<ul>
+<li class="Normal"><a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11176">NATO Commercial and Government Entity (NCAGE) Code</a> – Foreign organizations must obtain an NCAGE code (in lieu of a CAGE code) in order to register in SAM.</li>
+<li class="Normal">Unique Entity Identifier (UEI) - A UEI is issued as part of the SAM.gov registration process. The same UEI must be used for all registrations, as well as on the grant application.</li>
+</ul>
+</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=11123">eRA Commons</a> - Once the unique organization identifier is established, organizations can register with eRA Commons in tandem with completing their Grants.gov registrations; all registrations must be in place by time of submission. eRA Commons requires organizations to identify at least one Signing Official (SO) and at least one Program Director/Principal Investigator (PD/PI) account in order to submit an application.</li>
+<li class="Normal"><a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82300">Grants.gov</a> – Applicants must have an active SAM registration in order to complete the Grants.gov registration.</li>
+</ul>
+<p class="Normal"><strong>Program Directors/Principal Investigators (PD(s)/PI(s))</strong></p>
+<p class="Normal">All PD(s)/PI(s) must have an eRA Commons account.  PD(s)/PI(s) should work with their organizational officials to either create a new account or to affiliate their existing account with the applicant organization in eRA Commons. If the PD/PI is also the organizational Signing Official, they must have two distinct eRA Commons accounts, one for each role. Obtaining an eRA Commons account can take up to 2 weeks.</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172155" data-element-required="true" data-element-type="TEXT" data-section-code="EI" tabindex="0">
+						Eligible Individuals (Program Director/Principal Investigator) 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172155" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal">Any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research as the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) is invited to work with their organization to develop an application for support. Individuals from diverse backgrounds, including underrepresented racial and ethnic groups, individuals with disabilities, and women are always encouraged to apply for NIH support. See, Reminder: Notice of NIH's Encouragement of Applications Supporting Individuals from Underrepresented Ethnic and Racial Groups as well as Individuals with Disabilities<a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-019.html">,</a> <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-019.html">NOT-OD-22-019</a>.</p>
+<p class="Normal">For institutions/organizations proposing multiple PDs/PIs, visit the Multiple Program Director/Principal Investigator Policy and submission details in the Senior/Key Person Profile (Expanded) Component of the SF424 (R&amp;R) Application Guide.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172156" data-element-required="false" data-element-type="TEXT" data-section-code="EI">
+<p>Projects submitted to this NOFO must propose multiple-PDs/PIs and must include at least one PD/PI whose expertise is primarily in HIV syndemics and at least one other PD/PI with expertise in the condition(s) addressed by the study.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172157" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="heading4">2. Cost Sharing</p>
+<p class="Normal">This NOFO does not require cost sharing as defined in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11126">NIH Grants Policy Statement NIH Grants Policy Statement Section 1.2 Definition of Terms.</a></p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172158" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="heading4">3. Additional Information on Eligibility</p>
+<p class="heading4">Number of Applications</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172159" data-element-required="true" data-element-type="TEXT" data-section-code="EI">
+<p class="Normal">Applicant organizations may submit more than one application, provided that each application is scientifically distinct.</p>
+<p class="Normal">The NIH will not accept duplicate or highly overlapping applications under review at the same time, per <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82415">NIH Grants Policy Statement Section 2.3.7.4 Submission of Resubmission Application</a>. This means that the NIH will not accept:</p>
+<ul>
+<li class="Normal">A new (A0) application that is submitted before issuance of the summary statement from the review of an overlapping new (A0) or resubmission (A1) application.</li>
+<li class="Normal">A resubmission (A1) application that is submitted before issuance of the summary statement from the review of the previous new (A0) application.</li>
+<li class="Normal">An application that has substantial overlap with another application pending appeal of initial peer review (see <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82423">NIH Grants Policy Statement 2.3.9.4 Similar, Essentially Identical, or Identical Applications</a>).</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172160" data-element-required="false" data-element-type="TEXT" data-section-code="EI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172161" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<a name="_Section_IV._Application_1"></a><h2 class="heading2">Section IV. Application and Submission Information</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172162" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">1. Requesting an Application Package</p>
+<p class="Normal">The application forms package specific to this opportunity must be accessed through ASSIST, Grants.gov Workspace or an institutional system-to-system solution. Links to apply using ASSIST or Grants.gov Workspace are available in <a href="#_Required_Application_Instructions">Part 1</a> of this NOFO. See your administrative office for instructions if you plan to use an institutional system-to-system solution.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172163" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">2. Content and Form of Application Submission</p>
+<p class="Normal">It is critical that applicants follow the instructions in the Research (R) Instructions in the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply - Application Guide</a> except where instructed in this notice of funding opportunity to do otherwise. Conformance to the requirements in the Application Guide is required and strictly enforced. Applications that are out of compliance with these instructions may be delayed or not accepted for review.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172164" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+<h4>Letter of Intent</h4><p>Although a letter of intent is not required, is not binding, and does not enter into the review of a subsequent application, the information that it contains allows IC staff to estimate the potential review workload and plan the review.</p><p>By the date listed in <a href="#_Part_1._Overview">Part 1. Overview Information</a>, prospective applicants are asked to submit a letter of intent that includes the following information:</p><ul><li>Descriptive title of proposed activity</li><li>Name(s), address(es), and telephone number(s) of the PD(s)/PI(s)</li><li>Names of other key personnel</li><li>Participating institution(s)</li><li>Number and title of this funding opportunity</li></ul><p>The letter of intent should be sent to:</p><p>John Connaughton, Ph.D.<br/>Chief, Scientific Review Branch<br/>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)<br/>Telephone: 301-594-7797<br/>Email: <a href="mailto:NIDDKletterofintent@mail.nih.gov">NIDDKletterofintent@mail.nih.gov</a></p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172165" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">Page Limitations</p>
+<p class="Normal">All page limitations described in the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply – Application Guide</a> and the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=61134">Table of Page Limits</a> must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172166" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172167" data-element-required="true" data-element-type="TEXT" data-section-code="ASI" tabindex="0">
+						 Instructions for Application Submission 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172167" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="Normal">The following section supplements the instructions found in the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply – Application Guide</a> and should be used for preparing an application to this NOFO.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172168" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">SF424(R&amp;R) Cover</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172170" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">SF424(R&amp;R) Project/Performance Site Locations</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172172" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">SF424(R&amp;R) Other Project Information</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172173" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+<p>.<strong>Other</strong> <strong>Attachments:</strong> </p><p><strong>Plan for Enhancing Diverse Perspectives</strong> </p><ul><li>In an "Other Attachment" entitled "Plan for Enhancing Diverse Perspectives," all applicants must include a summary of strategies to advance the scientific and technical merit of the proposed project through expanded inclusivity.</li><li>The PEDP should provide a holistic and integrated view of how enhancing diverse perspectives is viewed and supported throughout the application and can incorporate elements with relevance to any review criteria (significance, investigator(s), innovation, approach, and environment) as appropriate.</li><li>Where possible, applicant(s) should align their description with these required elements within the research strategy section.</li><li> The PEDP will vary depending on the scientific aims, expertise required, the environment and performance site(s), as well as how the project aims are structured.</li><li> The PEDP may be no more than 1-page in length and should include a timeline and milestones for relevant components that will be considered as part of the review.</li></ul><p><strong>Examples of items that advance inclusivity in research and may be part of the PEDP can include, but are not limited to:</strong></p><ul><li>Discussion of engagement with different types of institutions and organizations (e.g., research-intensive, undergraduate-focused, minority-serving, community-based). </li><li>Description of any planned partnerships that may enhance geographic and regional diversity. </li><li>Plan to enhance recruiting of women and individuals from groups historically under-represented in the biomedical, behavioral, and clinical research workforce.</li><li>Proposed monitoring activities to identify and measure PEDP progress benchmarks.</li><li>Plan to utilize the project infrastructure (i.e., research and structure) to support career-enhancing research opportunities for diverse junior, early- and mid-career researchers. </li><li>Description of any training and/or mentoring opportunities available to encourage participation of students, postdoctoral researchers and co-investigators from diverse backgrounds. </li><li>Plan to develop transdisciplinary collaboration(s) that require unique expertise and/or solicit diverse perspectives to address research question(s). </li><li>Publication plan that enumerates planned manuscripts and proposed lead authorship. </li><li>Outreach and planned engagement activities to enhance recruitment of individuals from diverse groups as research participants including those from under-represented backgrounds.</li></ul><p>For further information on the Plan for Enhancing Diverse Perspectives (PEDP), please see <a href="https://braininitiative.nih.gov/about/plan-enhancing-diverse-perspectives-pedp">https://braininitiative.nih.gov/about/plan-enhancing-diverse-perspectives-pedp</a>.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172174" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">SF424(R&amp;R) Senior/Key Person Profile</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172176" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">R&amp;R or Modular Budget</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172177" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+<p><strong>PEDP implementation costs</strong></p><ul><li>Applicants may include allowable costs associated with PEDP implementation (as outlined in the Grants Policy Statement section 7: <a href="https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.1_general.htm">https://grants.nih.gov/grants/policy/nihgps/html5/section_7/7.1_general.htm</a>).</li></ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172178" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">R&amp;R Subaward Budget</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172180" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">PHS 398 Cover Page Supplement</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172182" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">PHS 398 Research Plan</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed, with the following additional instructions:</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172183" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+<p style="margin-left:0px;"><strong>Research Strategy:</strong></p><p style="margin-left:0px;">The presentation of the research strategy should include a brief description of each PD/PI's contribution to its development, including the overall strategy, methodology and analytical approaches. The presentation of preliminary data should include a brief description of each PD/PI's contribution to it, which may be related to experimental design, execution, or interpretation.</p><p style="margin-left:0px;"><strong>Multiple PD/PI Leadership Plan:</strong></p><p style="margin-left:0px;">The application must include a Multiple PD/PI Leadership Plan. The Multiple PD/PI Leadership Plan must describe how the Multiple PD/PI structure brings together at least one PD/PI with primary expertise in HIV syndemics with at least one other PD/PI with primary expertise in the relevant NIDDK- or NHLBI- related comorbidity, co-infection, or complication being addressed. The plan should include one or more examples of how development of specific aspects of the research plan benefited from interactions between the PDs /PIs, including enhanced innovation and a strengthened, more rigorous approach.  The plan should describe how each PD/PI will participate in aspects of the project primarily led by the other PD(s)/PI(s) in order to leverage the full combined expertise of the Multiple PD/PI team. It is important to describe plans for the leadership approach, governance and organizational structure that includes specific plans to facilitate collaboration and communication among team members (e.g., virtual team meetings, teleconferences, and websites).</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172184" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="Normal"><strong>Resource Sharing Plan</strong>: Individuals are required to comply with the instructions for the Resource Sharing Plans as provided in the SF424 (R&amp;R) Application Guide.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172185" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172186" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="Normal"><strong>Other Plan(s): </strong>Note: Effective for due dates on or after January 25, 2023, the Data Management and Sharing Plan will be attached in the Other Plan(s) attachment in FORMS-H application forms packages.</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed, with the following additional instructions:</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172187" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<ul><li>All applicants planning research (funded or conducted in whole or in part by NIH) that results in the generation of scientific data are required to comply with the instructions for the Data Management and Sharing Plan. All applications, regardless of the amount of direct costs requested for any one year, must address a Data Management and Sharing Plan.</li></ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172188" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="Normal"><strong>Appendix:</strong> Only limited Appendix materials are allowed. Follow all instructions for the Appendix as described in the SF424 (R&amp;R) Application Guide.</p>
+<ul>
+<li class="Normal">No publications or other material, with the exception of blank questionnaires or blank surveys, may be included in the Appendix.</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172189" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172190" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">PHS Human Subjects and Clinical Trials Information</p>
+<p class="Normal">When involving human subjects research, clinical research, and/or NIH-defined clinical trials (and when applicable, clinical trials research experience) follow all instructions for the PHS Human Subjects and Clinical Trials Information form in the SF424 (R&amp;R) Application Guide, with the following additional instructions:</p>
+<p class="Normal">If you answered “Yes” to the question “Are Human Subjects Involved?” on the R&amp;R Other Project Information form, you must include at least one human subjects study record using the <strong>Study Record: PHS Human Subjects and Clinical Trials Information </strong>form or <strong>Delayed Onset Study</strong> record.</p>
+<p class="Normal"><strong>Study Record: PHS Human Subjects and Clinical Trials Information</strong></p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172191" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172192" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="Normal"><strong>Delayed Onset Study</strong></p>
+<p class="Normal">Note: <a href="https://grants.nih.gov/grants/glossary.htm#DelayedOnsetStudy">Delayed onset</a> does NOT apply to a study that can be described but will not start immediately (i.e., delayed start). All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172193" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172194" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">PHS Assignment Request Form</p>
+<p class="Normal">All instructions in the SF424 (R&amp;R) Application Guide must be followed.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172197" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">3. Unique Entity Identifier and System for Award Management (SAM)</p>
+<p class="Normal">See Part 1. Section III.1 for information regarding the requirement for obtaining a unique entity identifier and for completing and maintaining active registrations in System for Award Management (SAM), NATO Commercial and Government Entity (NCAGE) Code (if applicable), eRA Commons, and Grants.gov</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172198" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">4. Submission Dates and Times</p>
+<p class="Normal"><a href="#_Part_1._Overview">Part I. Overview Information</a> contains information about Key Dates and times. Applicants are encouraged to submit applications before the due date to ensure they have time to make any application corrections that might be necessary for successful submission. When a submission date falls on a weekend or <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82380">Federal holiday</a>, the application deadline is automatically extended to the next business day.</p>
+<p class="Normal">Organizations must submit applications to <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11128" target="_blank">Grants.gov</a> (the online portal to find and apply for grants across all Federal agencies). Applicants must then complete the submission process by tracking the status of the application in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11123" target="_blank">eRA Commons</a>, NIH’s electronic system for grants administration. NIH and Grants.gov systems check the application against many of the application instructions upon submission. Errors must be corrected and a changed/corrected application must be submitted to Grants.gov on or before the application due date and time.  If a Changed/Corrected application is submitted after the deadline, the application will be considered late. Applications that miss the due date and time are subjected to the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82423">NIH Grants Policy Statement Section 2.3.9.2 Electronically Submitted Applications</a>.</p>
+<p class="Normal"><strong>Applicants are responsible for viewing their application before the due date in the eRA Commons to ensure accurate and successful submission.</strong></p>
+<p class="Normal">Information on the submission process and a definition of on-time submission are provided in the <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply – Application Guide</a>.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172199" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">5. Intergovernmental Review (E.O. 12372)</p>
+<p class="Normal">This initiative is not subject to <a href="https://grants.nih.gov/grants/policy/nihgps/html5/section_10/10.10.1_executive_orders.htm">intergovernmental review.</a></p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172200" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+<p><strong>Use of Common Data Elements in NIH-funded Research</strong></p><p>Many NIH ICs encourage the use of common data elements (CDEs) in basic, clinical, and applied research, patient registries, and other human subject research to facilitate broader and more effective use of data and advance research across studies. CDEs are data elements that have been identified and defined for use in multiple data sets across different studies. Use of CDEs can facilitate data sharing and standardization to improve data quality and enable data integration from multiple studies and sources, including electronic health records. NIH ICs have identified CDEs for many clinical domains (e.g., neurological disease), types of studies (e.g. genome-wide association studies (GWAS)), types of outcomes (e.g., patient-reported outcomes), and patient registries (e.g., the Global Rare Diseases Patient Registry and Data Repository). NIH has established a “Common Data Element (CDE) Resource Portal" (<a href="http://cde.nih.gov/">http://cde.nih.gov/</a>) to assist investigators in identifying NIH-supported CDEs when developing protocols, case report forms, and other instruments for data collection. The Portal provides guidance about and access to NIH-supported CDE initiatives and other tools and resources for the appropriate use of CDEs and data standards in NIH-funded research. Investigators are encouraged to consult the Portal and describe in their applications any use they will make of NIH-supported CDEs in their projects.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172201" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">6. Funding Restrictions</p>
+<p class="Normal">All NIH awards are subject to the terms and conditions, cost principles, and other considerations described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11120">NIH Grants Policy Statement</a>.</p>
+<p class="Normal">Pre-award costs are allowable only as described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11143">NIH Grants Policy Statement Section 7.9.1 Selected Items of Cost</a>.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172202" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172203" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">7. Other Submission Requirements and Information</p>
+<p class="Normal">Applications must be submitted electronically following the instructions described in the SF424 (R&amp;R) Application Guide. Paper applications will not be accepted.</p>
+<p class="Normal">Applicants must complete all required registrations before the application due date. Section III. Eligibility Information contains information about registration.</p>
+<p class="Normal">For assistance with your electronic application or for more information on the electronic submission process, visit <a href="https://grants.nih.gov/grants/guide/url_redirect.php?id=82400">How to Apply – Application Guide</a>. If you encounter a system issue beyond your control that threatens your ability to complete the submission process on-time, you must follow the <a href="https://grants.nih.gov/grants/how-to-apply-application-guide/due-dates-and-submission-policies/dealing-with-system-issues.htm">Dealing with System Issues</a> guidance. For assistance with application submission, contact the Application Submission Contacts in Section VII.</p>
+<p class="Normal"><strong>Important reminders:</strong></p>
+<p class="Normal">All PD(s)/PI(s) must include their eRA Commons ID in the Credential field of the Senior/Key Person Profile form<b>. </b>Failure to register in the Commons and to include a valid PD/PI Commons ID in the credential field will prevent the successful submission of an electronic application to NIH. See Section III of this NOFO for information on registration requirements.</p>
+<p class="Normal">The applicant organization must ensure that the unique entity identifier provided on the application is the same identifier used in the organization’s profile in the eRA Commons and for the System for Award Management. Additional information may be found in the SF424 (R&amp;R) Application Guide.</p>
+<p class="Normal">See <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11146">more tips</a> for avoiding common errors.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172204" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p>Upon receipt, applications will be evaluated for completeness and compliance with application instructions by the Center for Scientific Review and responsiveness by components of participating organizations, NIH. Applications that are incomplete, non-compliant and/or nonresponsive will not be reviewed.</p><p>Applications must include annual milestones. Applications that fail to include annual milestones will be considered incomplete and will be withdrawn. Applications must include a PEDP submitted as Other Project Information as an attachment. Applications that fail to include a PEDP will be considered incomplete and will be withdrawn before review.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172205" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172206" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172207" data-element-required="true" data-element-type="TEXT" data-section-code="ASI">
+<p class="heading4">Post Submission Materials</p>
+<p class="Normal">Applicants are required to follow the instructions for post-submission materials, as described in <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82299">the policy</a></p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172208" data-element-required="false" data-element-type="TEXT" data-section-code="ASI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172209" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<a name="_Section_V._Application"></a><h2 class="heading2">Section V. Application Review Information</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172210" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="heading4">1. Criteria</p>
+<p class="Normal">Only the review criteria described below will be considered in the review process.  Applications submitted to the NIH in support of the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11149">NIH mission</a> are evaluated for scientific and technical merit through the NIH peer review system.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172212" data-element-required="false" data-element-type="TEXT" data-section-code="ARI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172213" data-element-required="false" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">A proposed Clinical Trial application may include study design, methods, and intervention that are not by themselves innovative but address important questions or unmet needs. Additionally, the results of the clinical trial may indicate that further clinical development of the intervention is unwarranted or lead to new avenues of scientific investigation.</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172214" data-element-required="true" data-element-type="TEXT" data-section-code="ARI" tabindex="0">
+						 Overall Impact 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172214" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">Reviewers will provide an overall impact score to reflect their assessment of the likelihood for the project to exert a sustained, powerful influence on the research field(s) involved, in consideration of the following review criteria and additional review criteria (as applicable for the project proposed).</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172215" data-element-required="true" data-element-type="TEXT" data-section-code="ARI" tabindex="0">
+						Scored Review Criteria 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172215" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">Reviewers will consider each of the review criteria below in the determination of scientific merit and give a separate score for each. An application does not need to be strong in all categories to be judged likely to have major scientific impact. For example, a project that by its nature is not innovative may be essential to advance a field.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172216" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="ARI">
+<div class="P_SingleIndent criteria-div"> <label class="heading4">Significance</label> <br>
+<span><p class="Normal">Does the project address an important problem or a critical barrier to progress in the field? Is the prior research that serves as the key support for the proposed project rigorous? If the aims of the project are achieved, how will scientific knowledge, technical capability, and/or clinical practice be improved? How will successful completion of the aims change the concepts, methods, technologies, treatments, services, or preventative interventions that drive this field?</p>
+<p class="Normal"><strong>In addition, for applications involving clinical trials</strong></p>
+<p class="Normal">Are the scientific rationale and need for a clinical trial to test the proposed hypothesis or intervention well supported by preliminary data, clinical and/or preclinical studies, or information in the literature or knowledge of biological mechanisms? For trials focusing on clinical or public health endpoints, is this clinical trial necessary for testing the safety, efficacy or effectiveness of an intervention that could lead to a change in clinical practice, community behaviors or health care policy? For trials focusing on mechanistic, behavioral, physiological, biochemical, or other biomedical endpoints, is this trial needed to advance scientific understanding?</p>
+</span>
+<span><p><i><strong>Specific to this NOFO: </strong></i>To what extent do the efforts described in the Plan for Enhancing Diverse Perspectives further the significance of the project? How likely will the overall design contribute to mechanistic approaches to syndemic interactions that affect people with HIV-associated comorbidities, co-infections, and complications?  </p></span>
+<label class="heading4">Investigator(s)</label> <br>
+<span><p class="Normal">Are the PD(s)/PI(s), collaborators, and other researchers well suited to the project? If Early Stage Investigators or those in the early stages of independent careers, do they have appropriate experience and training? If established, have they demonstrated an ongoing record of accomplishments that have advanced their field(s)? If the project is collaborative or multi-PD/PI, do the investigators have complementary and integrated expertise; are their leadership approach, governance and organizational structure appropriate for the project?</p>
+<p class="Normal"><strong>In addition, for applications involving clinical trials</strong></p>
+<p class="Normal">With regard to the proposed leadership for the project, do the PD/PI(s) and key personnel have the expertise, experience, and ability to organize, manage and implement the proposed clinical trial and meet milestones and timelines? Do they have appropriate expertise in study coordination, data management and statistics? For a multicenter trial, is the organizational structure appropriate and does the application identify a core of potential center investigators and staffing for a coordinating center?</p>
+</span>
+<span><p><i><strong>Specific to this NOFO: </strong></i>To what extent will the efforts described in the Plan for Enhancing Diverse Perspectives strengthen and enhance the expertise required for the project? To what extent does the composition of the Multiple PD/PI team, including co-investigators and collaborators, synergize and result in a strong combined expertise that will benefit a rigorous execution of the project? How effectively did the PDs/PIs interact during the preparation of the project?  How effectively will the structure of the Multiple PD/PI Leadership Plan facilitate participation of each PD/PI in all aspects of the project so that the project will meaningfully benefit from the combined expertise of the Multiple PD/PI team?  To what extent do the preliminary data reflect productive interactions between the PDs/PIs? How effectively have the interactions between the PDs/PIs  strengthened the research plan?</p></span>
+<label class="heading4">Innovation</label> <br>
+<span><p class="Normal">Does the application challenge and seek to shift current research or clinical practice paradigms by utilizing novel theoretical concepts, approaches or methodologies, instrumentation, or interventions? Are the concepts, approaches or methodologies, instrumentation, or interventions novel to one field of research or novel in a broad sense? Is a refinement, improvement, or new application of theoretical concepts, approaches or methodologies, instrumentation, or interventions proposed?</p>
+<p class="Normal"><strong>In addition, for applications involving clinical trials</strong></p>
+<p class="Normal">Does the design/research plan include innovative elements, as appropriate, that enhance its sensitivity, potential for information or potential to advance scientific knowledge or clinical practice?</p>
+</span>
+<span><p><i><strong>Specific to this NOFO: </strong></i>To what extent will the efforts described in the Plan for Enhancing Diverse Perspectives meaningfully contribute to innovation?</p></span>
+<label class="heading4">Approach</label> <br>
+<span><p class="Normal">Are the overall strategy, methodology, and analyses well-reasoned and appropriate to accomplish the specific aims of the project? Have the investigators included plans to address weaknesses in the rigor of prior research that serves as the key support for the proposed project? Have the investigators presented strategies to ensure a robust and unbiased approach, as appropriate for the work proposed? Are potential problems, alternative strategies, and benchmarks for success presented? If the project is in the early stages of development, will the strategy establish feasibility and will particularly risky aspects be managed? Have the investigators presented adequate plans to address relevant biological variables, such as sex, for studies in vertebrate animals or human subjects? </p>
+<p class="Normal">If the project involves human subjects and/or NIH-defined clinical research, are the plans to address 1) the protection of human subjects from research risks, and 2) inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion or exclusion of individuals of all ages (including children and older adults), justified in terms of the scientific goals and research strategy proposed?</p>
+<p class="Normal"><strong>In addition, for applications involving clinical trials</strong></p>
+<p class="Normal">Does the application adequately address the following, if applicable</p>
+<p class="Normal"><em>Study Design </em></p>
+<p class="Normal">Is the study design justified and appropriate to address primary and secondary outcome variable(s)/endpoints that will be clear, informative and relevant to the hypothesis being tested? Is the scientific rationale/premise of the study based on previously well-designed preclinical and/or clinical research? Given the methods used to assign participants and deliver interventions, is the study design adequately powered to answer the research question(s), test the proposed hypothesis/hypotheses, and provide interpretable results? Is the trial appropriately designed to conduct the research efficiently? Are the study populations (size, gender, age, demographic group), proposed intervention arms/dose, and duration of the trial, appropriate and well justified?</p>
+<p class="Normal">Are potential ethical issues adequately addressed? Is the process for obtaining informed consent or assent appropriate? Is the eligible population available? Are the plans for recruitment outreach, enrollment, retention, handling dropouts, missed visits, and losses to follow-up appropriate to ensure robust data collection? Are the planned recruitment timelines feasible and is the plan to monitor accrual adequate? Has the need for randomization (or not), masking (if appropriate), controls, and inclusion/exclusion criteria been addressed? Are differences addressed, if applicable, in the intervention effect due to sex/gender and race/ethnicity?</p>
+<p class="Normal">Are the plans to standardize, assure quality of, and monitor adherence to, the trial protocol and data collection or distribution guidelines appropriate? Is there a plan to obtain required study agent(s)? Does the application propose to use existing available resources, as applicable?</p>
+<p class="Normal"><em>Data Management and Statistical Analysis </em></p>
+<p class="Normal">Are planned analyses and statistical approach appropriate for the proposed study design and methods used to assign participants and deliver interventions? Are the procedures for data management and quality control of data adequate at clinical site(s) or at center laboratories, as applicable? Have the methods for standardization of procedures for data management to assess the effect of the intervention and quality control been addressed? Is there a plan to complete data analysis within the proposed period of the award?</p>
+</span>
+<span><p><i><strong>Specific to this NOFO:</strong></i> Are the timeline and milestones associated with the Plan for Enhancing Diverse Perspectives well-developed and feasible? </p></span>
+<label class="heading4">Environment</label> <br>
+<span><p class="Normal">Will the scientific environment in which the work will be done contribute to the probability of success? Are the institutional support, equipment and other physical resources available to the investigators adequate for the project proposed? Will the project benefit from unique features of the scientific environment, subject populations, or collaborative arrangements?</p>
+<p class="Normal"><strong>In addition, for applications involving clinical trials</strong></p>
+<p class="Normal">If proposed, are the administrative, data coordinating, enrollment and laboratory/testing centers, appropriate for the trial proposed?</p>
+<p class="Normal">Does the application adequately address the capability and ability to conduct the trial at the proposed site(s) or centers? Are the plans to add or drop enrollment centers, as needed, appropriate?</p>
+<p class="Normal">If international site(s) is/are proposed, does the application adequately address the complexity of executing the clinical trial?</p>
+<p class="Normal">If multi-sites/centers, is there evidence of the ability of the individual site or center to: (1) enroll the proposed numbers; (2) adhere to the protocol; (3) collect and transmit data in an accurate and timely fashion; and, (4) operate within the proposed organizational structure?</p>
+</span>
+<span><p><i><strong>Specific to this NOFO: </strong></i>To what extent will features of the environment described in the Plan for Enhancing Diverse Perspectives (e.g., collaborative arrangements, geographic diversity, institutional support) contribute to the success of the project?</p></span>
+</br></br></br></br></br></div>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172217" data-element-required="true" data-element-type="TEXT" data-section-code="ARI" tabindex="0">
+						Additional Review Criteria 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172217" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">As applicable for the project proposed, reviewers will evaluate the following additional items while determining scientific and technical merit, and in providing an overall impact score, but will not give separate scores for these items.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172218" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="ARI">
+<div class="P_SingleIndent criteria-div"> <label class="heading4">Study Timeline </label> <br>
+<span><p class="Normal"><strong>Specific to applications involving clinical trials</strong></p>
+<p class="Normal">Is the study timeline described in detail, taking into account start-up activities, the anticipated rate of enrollment, and planned follow-up assessment? Is the projected timeline feasible and well justified? Does the project incorporate efficiencies and utilize existing resources (e.g., CTSAs, practice-based research networks, electronic medical records, administrative database, or patient registries) to increase the efficiency of participant enrollment and data collection, as appropriate?</p>
+<p class="Normal">Are potential challenges and corresponding solutions discussed (e.g., strategies that can be implemented in the event of enrollment shortfalls)?</p>
+</span>
+<span></span>
+<label class="heading4">Protections for Human Subjects</label> <br/>
+<span><p class="Normal">For research that involves human subjects but does not involve one of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate the justification for involvement of human subjects and the proposed protections from research risk relating to their participation according to the following five review criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3) potential benefits to the subjects and others, 4) importance of the knowledge to be gained, and 5) data and safety monitoring for clinical trials.</p>
+<p class="Normal">For research that involves human subjects and meets the criteria for one or more of the categories of research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the justification for the exemption, 2) human subjects involvement and characteristics, and 3) sources of materials. For additional information on review of the Human Subjects section, please refer to the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11175">Guidelines for the Review of Human Subjects</a>.</p>
+</span>
+<span></span>
+<label class="heading4">Inclusion of Women, Minorities, and Individuals Across the Lifespan</label> <br/>
+<span><p class="Normal">When the proposed project involves human subjects and/or NIH-defined clinical research, the committee will evaluate the proposed plans for the inclusion (or exclusion) of individuals on the basis of sex/gender, race, and ethnicity, as well as the inclusion (or exclusion) of individuals of all ages (including children and older adults) to determine if it is justified in terms of the scientific goals and research strategy proposed. For additional information on review of the Inclusion section, please refer to the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11174">Guidelines for the Review of Inclusion in Clinical Research</a>.</p>
+</span>
+<span></span>
+<label class="heading4">Vertebrate Animals</label> <br/>
+<span><p class="Normal">The committee will will evaluate the involvement of live vertebrate animals as part of the scientific assessment according to the following three points: (1) a complete description of all proposed procedures including the species, strains, ages, sex, and total numbers of animals to be used; (2) justifications that the species is appropriate for the proposed research and why the research goals cannot be accomplished using an alternative non-animal model; and (3) interventions including analgesia, anesthesia, sedation, palliative care, and humane endpoints that will be used to limit any unavoidable discomfort, distress, pain and injury in the conduct of scientifically valuable research. Methods of euthanasia and justification for selected methods, if NOT consistent with the AVMA Guidelines for the Euthanasia of Animals, is also required but is found in a separate section of the application. For additional information on review of the Vertebrate Animals Section, please refer to the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11150">Worksheet for Review of the Vertebrate Animals Section.</a></p>
+</span>
+<span></span>
+<label class="heading4">Biohazards</label> <br/>
+<span><p class="Normal">Reviewers will assess whether materials or procedures proposed are potentially hazardous to research personnel and/or the environment, and if needed, determine whether adequate protection is proposed.</p>
+</span>
+<span></span>
+<label class="heading4">Resubmissions</label> <br/>
+<span></span>
+<span><p>For Resubmissions, the committee will evaluate the application as now presented, taking into consideration the responses to comments from the previous scientific review group and changes made to the project.</p></span>
+<label class="heading4">Renewals</label> <br/>
+<span></span>
+<span><p>Not applicable.</p></span>
+<label class="heading4">Revisions</label> <br/>
+<span></span>
+<span><p>Not applicable.</p></span>
+</br></div>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172219" data-element-required="true" data-element-type="TEXT" data-section-code="ARI" tabindex="0">
+						Additional Review Considerations 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172219" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">As applicable for the project proposed, reviewers will consider each of the following items, but will not give scores for these items, and should not consider them in providing an overall impact score.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172220" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="ARI">
+<div class="P_SingleIndent criteria-div"> <label class="heading4">Applications from Foreign Organizations</label> <br/>
+<span><p class="Normal">Reviewers will assess whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions that exist in other countries and either are not readily available in the United States or augment existing U.S. resources.</p>
+</span>
+<span></span>
+<label class="heading4">Select Agent Research</label> <br/>
+<span><p class="Normal">Reviewers will assess the information provided in this section of the application, including 1) the Select Agent(s) to be used in the proposed research, 2) the registration status of all entities where Select Agent(s) will be used, 3) the procedures that will be used to monitor possession use and transfer of Select Agent(s), and 4) plans for appropriate biosafety, biocontainment, and security of the Select Agent(s).</p>
+</span>
+<span></span>
+<label class="heading4">Resource Sharing Plans</label> <br/>
+<span><p class="Normal">Reviewers will comment on whether the Resource Sharing Plan(s) (e.g., <a href="https://sharing.nih.gov/other-sharing-policies/model-organism-sharing-policy#policy-overview">Sharing Model Organisms</a>) or the rationale for not sharing the resources, is reasonable.</p>
+</span>
+<span></span>
+<label class="heading4">Authentication of Key Biological and/or Chemical Resources</label> <br/>
+<span><p class="Normal">For projects involving key biological and/or chemical resources, reviewers will comment on the brief plans proposed for identifying and ensuring the validity of those resources.</p>
+</span>
+<span></span>
+<label class="heading4">Budget and Period of Support</label> <br/>
+<span><p class="Normal">Reviewers will consider whether the budget and the requested period of support are fully justified and reasonable in relation to the proposed research.</p>
+</span>
+<span></span>
+</div>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172221" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="heading4">2. Review and Selection Process</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172222" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p>Applications will be evaluated for scientific and technical merit by (an) appropriate Scientific Review Group(s) convened by NIDDK, NIH, in accordance with <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11154">NIH peer review policies and practices</a>, using the stated review criteria. Assignment to a Scientific Review Group will be shown in the eRA Commons.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172223" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">As part of the scientific peer review, all applications will receive a written critique.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172224" data-element-required="false" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">Applications may undergo a selection process in which only those applications deemed to have the highest scientific and technical merit (generally the top half of applications under review) will be discussed and assigned an overall impact score.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172225" data-element-required="false" data-element-type="CHECKBOX" data-section-code="ARI">
+<p class="Normal"><a href="https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.4.2_appeals_of_initial_scientific_review.htm">Appeals</a> of initial peer review will not be accepted for applications submitted in response to this NOFO.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172226" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="Normal">Applications will be assigned on the basis of established PHS referral guidelines to the appropriate NIH Institute or Center. Applications will compete for available funds with all other recommended applications submitted in response to this NOFO. Following initial peer review, recommended applications will receive a second level of review by the appropriate national Advisory Council or Board. The following will be considered in making funding decisions:</p>
+<ul style="margin-left:25px;">
+<li class="Normal">Scientific and technical merit of the proposed project as determined by scientific peer review.</li>
+<li class="Normal">Availability of funds.</li>
+<li class="Normal">Relevance of the proposed project to program priorities.</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172227" data-element-required="true" data-element-type="TEXT" data-section-code="ARI">
+<p class="heading4">3. Anticipated Announcement and Award Dates</p>
+<p class="Normal">After the peer review of the application is completed, the PD/PI will be able to access his or her Summary Statement (written critique) via the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11123">eRA Commons</a>. Refer to Part 1 for dates for peer review, advisory council review, and earliest start date.</p>
+<p class="Normal">Information regarding the disposition of applications is available in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82416">NIH Grants Policy Statement Section 2.4.4 Disposition of Applications</a>.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172228" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<a name="_Section_VI._Award"></a><h2 class="heading2">Section VI. Award Administration Information</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172229" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<p class="heading4">1. Award Notices</p>
+<p class="Normal">If the application is under consideration for funding, NIH will request "just-in-time" information from the applicant as described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82418">NIH Grants Policy Statement</a>.</p>
+<p class="Normal">A formal notification in the form of a Notice of Award (NoA) will be provided to the applicant organization for successful applications. The NoA signed by the grants management officer is the authorizing document and will be sent via email to the recipient's business official.</p>
+<p class="Normal">Recipients must comply with any funding restrictions described in Section IV.6. Funding Restrictions. Selection of an application for award is not an authorization to begin performance. Any costs incurred before receipt of the NoA are at the recipient's risk. These costs may be reimbursed only to the extent considered allowable pre-award costs.</p>
+<p class="Normal">Any application awarded in response to this NOFO will be subject to terms and conditions found on the <a href="https://grants.nih.gov/grants/policy/nihgps/HTML5/part_ii_subpart_b.htm">Award Conditions and Information for NIH Grants</a> website.  This includes any recent legislation and policy applicable to awards that is highlighted on this website.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172230" data-element-required="false" data-element-type="TEXT" data-section-code="AAI">
+<p class="Normal">Individual awards are based on the application submitted to, and as approved by, the NIH and are subject to the IC-specific terms and conditions identified in the NoA.</p>
+<p class="Normal">ClinicalTrials.gov: If an award provides for one or more clinical trials. By law (Title VIII, Section 801 of Public Law 110-85), the "responsible party" must register and submit results information for certain “applicable clinical trials” on the ClinicalTrials.gov Protocol Registration and Results System Information Website (<a href="https://register.clinicaltrials.gov/">https://register.clinicaltrials.gov</a>). NIH expects registration and results reporting of all trials whether required under the law or not. For more information, see <a href="https://grants.nih.gov/policy/clinical-trials/reporting/index.htm">https://grants.nih.gov/policy/clinical-trials/reporting/index.htm</a></p>
+<p class="Normal">Institutional Review Board or Independent Ethics Committee Approval: Recipient institutions must ensure that all protocols are reviewed by their IRB or IEC. To help ensure the safety of participants enrolled in NIH-funded studies, the recipient must provide NIH copies of documents related to all major changes in the status of ongoing protocols.</p>
+<p class="Normal">Data and Safety Monitoring Requirements: The NIH policy for data and safety monitoring requires oversight and monitoring of all NIH-conducted or -supported human biomedical and behavioral intervention studies (clinical trials) to ensure the safety of participants and the validity and integrity of the data. Further information concerning these requirements is found at <a href="//grants.nih.gov/grants/policy/hs/data_safety.htm">http://grants.nih.gov/grants/policy/hs/data_safety.htm</a> and in the application instructions (SF424 (R&amp;R) and PHS 398).</p>
+<p class="Normal">Investigational New Drug or Investigational Device Exemption Requirements: Consistent with federal regulations, clinical research projects involving the use of investigational therapeutics, vaccines, or other medical interventions (including licensed products and devices for a purpose other than that for which they were licensed) in humans under a research protocol must be performed under a Food and Drug Administration (FDA) investigational new drug (IND) or investigational device exemption (IDE).</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172231" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<h4>2. Administrative and National Policy Requirements</h4><p>All NIH grant and cooperative agreement awards include the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11120">NIH Grants Policy Statement</a> as part of the NoA. For these terms of award, see the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11157">NIH Grants Policy Statement Part II: Terms and Conditions of NIH Grant Awards, Subpart A: General</a> and <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11159">Part II: Terms and Conditions of NIH Grant Awards, Subpart B: Terms and Conditions for Specific Types of Grants, Recipients, and Activities</a>, including of note, but not limited to:</p><ul><li><a href="https://grants.nih.gov/grants/policy/nihgps/HTML5/section_3/3.1_federalwide_standard_terms_and_conditions_for_research_grants.htm">Federalwide Standard Terms and Conditions for Research Grants</a></li><li><a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82417">Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment</a></li><li><a href="https://grants.nih.gov/grants/policy/nihgps/HTML5/section_4/4.2.1_acknowledgement_of_federal_funding.htm">Acknowledgment of Federal Funding</a></li></ul><p>If a recipient is successful and receives a Notice of Award, in accepting the award, the recipient agrees that any activities under the award are subject to all provisions currently in effect or implemented during the period of the award, other Department regulations and policies in effect at the time of the award, and applicable statutory provisions.</p><p>If a recipient receives an award, the recipient must follow all applicable nondiscrimination laws. The recipient agrees to this when registering in SAM.gov. The recipient must also submit an Assurance of Compliance (<a href="https://www.hhs.gov/sites/default/files/form-hhs690.pdf">HHS-690</a>). To learn more, see the <a href="https://www.hhs.gov/civil-rights/for-providers/laws-regulations-guidance/laws/index.html">HHS Office for Civil Rights website</a>.</p><p>HHS recognizes that NIH research projects are often limited in scope for many reasons that are nondiscriminatory, such as the principal investigator’s scientific interest, funding limitations, recruitment requirements, and other considerations. Thus, criteria in research protocols that target or exclude certain populations are warranted where nondiscriminatory justifications establish that such criteria are appropriate with respect to the health or safety of the subjects, the scientific study design, or the purpose of the research. For additional guidance regarding how the provisions apply to NIH grant programs, please contact the Scientific/Research Contact that is identified in Section VII under Agency Contacts of this NOFO.</p><p>In accordance with the statutory provisions contained in Section 872 of the Duncan Hunter National Defense Authorization Act of Fiscal Year 2009 (Public Law 110-417), NIH awards will be subject to the Federal Awardee Performance and Integrity Information System (FAPIIS) requirements. FAPIIS requires Federal award making officials to review and consider information about an applicant in the designated integrity and performance system (currently FAPIIS) prior to making an award. An applicant, at its option, may review information in the designated integrity and performance systems accessible through FAPIIS and comment on any information about itself that a Federal agency previously entered and is currently in FAPIIS. The Federal awarding agency will consider any comments by the applicant, in addition to other information in FAPIIS, in making a judgement about the applicant’s integrity, business ethics, and record of performance under Federal awards when completing the review of risk posed by applicants as described in 2 CFR Part 200.206 “Federal awarding agency review of risk posed by applicants.” This provision will apply to all NIH grants and cooperative agreements except fellowships.</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172232" data-element-required="true" data-element-type="TEXT" data-section-code="AAI" tabindex="0">
+						Cooperative Agreement Terms and Conditions of Award 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172232" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<p class="Normal">Not Applicable</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172233" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<p class="heading4">3. Data Management and Sharing</p>
+<p class="Normal">Consistent with the 2023 NIH Policy for Data Management and Sharing, when data management and sharing is applicable to the award, recipients will be required to adhere to the Data Management and Sharing requirements as outlined in the <a href="https://grants.nih.gov/grants/policy/nihgps/HTML5/section_8/8.2.3_sharing_research_resources.htm#Data">NIH Grants Policy Statement</a>. Upon the approval of a Data Management and Sharing Plan, it is required for recipients to implement the plan as described.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="172234" data-element-required="false" data-element-type="TEXT" data-section-code="AAI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172235" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<p class="heading4">4. Reporting</p>
+<p class="Normal">When multiple years are involved, recipients will be required to submit the <a href="//grants.nih.gov/grants/rppr/index.htm">Research Performance Progress Report (RPPR)</a> annually and financial statements as required in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82419">NIH Grants Policy Statement</a>.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172236" data-element-required="false" data-element-type="TEXT" data-section-code="AAI">
+<p>Recipients will provide updates at least annually on implementation of the PEDP.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172237" data-element-required="true" data-element-type="TEXT" data-section-code="AAI">
+<p class="Normal">A final RPPR, invention statement, and the expenditure data portion of the Federal Financial Report are required for closeout of an award, as described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82420">NIH Grants Policy Statement</a>. NIH NOFOs outline intended research goals and objectives. Post award, NIH will review and measure performance based on the details and outcomes that are shared within the RPPR, as described at 2 CFR Part 200.301.</p>
+<p class="Normal">The Federal Funding Accountability and Transparency Act of 2006 as amended (FFATA), includes a requirement for recipients of Federal grants to report information about first-tier subawards and executive compensation under Federal assistance awards issued in FY2011 or later.  All recipients of applicable NIH grants and cooperative agreements are required to report to the Federal Subaward Reporting System (FSRS) available at <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11170">www.fsrs.gov</a> on all subawards over the threshold.  See the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=82420">NIH Grants Policy Statement</a> for additional information on this reporting requirement.</p>
+<p class="Normal">In accordance with the regulatory requirements provided at 2 CFR Part 200.113 and Appendix XII to 2 CFR Part 200, recipients that have currently active Federal grants, cooperative agreements, and procurement contracts from all Federal awarding agencies with a cumulative total value greater than $10,000,000 for any period of time during the period of performance of a Federal award, must report and maintain the currency of information reported in the System for Award Management (SAM) about civil, criminal, and administrative proceedings in connection with the award or performance of a Federal award that reached final disposition within the most recent five-year period.  The recipient must also make semiannual disclosures regarding such proceedings. Proceedings information will be made publicly available in the designated integrity and performance system (currently FAPIIS).  This is a statutory requirement under section 872 of Public Law 110-417, as amended (41 U.S.C. 2313).  As required by section 3010 of Public Law 111-212, all information posted in the designated integrity and performance system on or after April 15, 2011, except past performance reviews required for Federal procurement contracts, will be publicly available.  Full reporting requirements and procedures are found in Appendix XII to 2 CFR Part 200 – Award Term and Condition for Recipient Integrity and Performance Matters.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172239" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<a name="_Section_VII._Agency"></a><h2 class="heading2">Section VII. Agency Contacts</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172240" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<p>We encourage inquiries concerning this funding opportunity and welcome the opportunity to answer questions from potential applicants.</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172241" data-element-required="true" data-element-type="TEXT" data-section-code="AC" tabindex="0">
+						Application Submission Contacts 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172241" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<p class="Normal">eRA Service Desk (Questions regarding ASSIST, eRA Commons, application errors and warnings, documenting system problems that threaten submission by the due date, and post-submission issues)</p>
+<p class="Normal">Finding Help Online: <a href="https://www.era.nih.gov/need-help" target="_blank" title="https://www.era.nih.gov/need-help">https://www.era.nih.gov/need-help</a> (preferred method of contact)<br/>
+Telephone: 301-402-7469 or 866-504-9552 (Toll Free)</p>
+<p class="Normal">General Grants Information (Questions regarding application instructions, application processes, and NIH grant resources)<br/>
+Email: <a href="mailto:GrantsInfo@nih.gov">GrantsInfo@nih.gov</a> (preferred method of contact)<br/>
+Telephone: 301-480-7075</p>
+<p class="Normal">Grants.gov Customer Support (Questions regarding Grants.gov registration and Workspace)<br/>
+Contact Center Telephone: 800-518-4726<br/>
+Email: <a href="mailto:support@grants.gov">support@grants.gov</a></p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172242" data-element-required="true" data-element-type="TEXT" data-section-code="AC" tabindex="0">
+						Scientific/Research Contact(s) 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172242" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<p>Peter Perrin, Ph.D. <br/>Division of Digestive Diseases and Nutrition<br/>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) <br/>Telephone: 301-451-3759<br/>Email: <a href="mailto:Peter.Perrin@nih.gov">Peter.Perrin@nih.gov</a> </p><p>Shavon Artis Dickerson, Dr.P.H., M.P.H.<br/>Division of Diabetes, Endocrinology, and Metabolic Diseases<br/>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) <br/>Telephone: 301-435-3055<br/>Email: <a href="mailto:Shavon.Dickerson@nih.gov">Shavon.Dickerson@nih.gov</a></p><p>Jenna Norton, PhD, MPH<br/>Division of Kidney Urologic and Hematologic Diseases (NIDDK)<br/>National Institute of Diabetes and Digestive and Kidney Diseases<br/>Telephone: 301-928-5509<br/>Email: <a href="mailto:Jenna.Norton@nih.gov">Jenna.Norton@nih.gov</a> </p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172243" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="AC">
+<p>Fassil Ketema, MSc<br/>NHLBI - NATIONAL HEART, LUNG, AND BLOOD INSTITUTE<br/>Phone: 3014965468<br/>E-mail: <a href="mailto:fassil.ketema@nih.gov">fassil.ketema@nih.gov</a></p><p>Mary Masterson PhD, MS<br/>National Heart, Lung, and Blood Institute (NHLBI)<br/>Center for Translation Research and Implementation Science (CTRIS)<br/>Telephone: 301-827-6113  <br/>Email: <a href="mailto:Mary.Masterson@nih.gov">Mary.Masterson@nih.gov</a><br/><br/><br/><br/> </p><br><br>
+<p>Elizabeth Anne Barr, Ph.D.<br/>ORWH - Office of Research on Women's Health<br/>Phone: 301.402.7895<br/>E-mail: <a href="mailto:elizabeth.barr@nih.gov">elizabeth.barr@nih.gov</a></p><br><br>
+</br></br></br></br></div>
+<div class="heading4" data-element-has-value="true" data-element-id="172244" data-element-required="true" data-element-type="TEXT" data-section-code="AC" tabindex="0">
+						Peer Review Contact(s) 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172244" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<p>Michele L. Barnard, Ph.D.<br/>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)<br/>Telephone: 301-594-8898<br/>Email: <a href="mailto:BarnardM@extra.niddk.nih.gov">BarnardM@extra.niddk.nih.gov</a></p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172246" data-element-required="true" data-element-type="TEXT" data-section-code="AC" tabindex="0">
+						Financial/Grants Management Contact(s) 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172246" data-element-required="true" data-element-type="TEXT" data-section-code="AC">
+<p>Sunshine Wilson<br/>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) <br/>Telephone: 301-827-4670<br/>Email: <a href="mailto:Sunshine.Wilson@nih.gov">Sunshine.Wilson@nih.gov</a> <br/> </p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172247" data-element-required="false" data-element-type="LINKED_ELEMENT" data-section-code="AC">
+<p>Fatima Kamara<br/>National Heart, Lung, and Blood Institute (<a href="http://www.nhlbi.nih.gov/">NHLBI</a>)<br/>Telephone: 301-435-7916<br/>Email: <a href="mailto:fatima.kamara@nih.gov">fatima.kamara@nih.gov</a><i><strong> </strong></i></p><br><br><br><br>
+</br></br></br></br></div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172248" data-element-required="true" data-element-type="TEXT" data-section-code="OTI">
+<a name="_Section_VIII._Other"></a><h2 class="heading2">Section VIII. Other Information</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172249" data-element-required="true" data-element-type="TEXT" data-section-code="OTI">
+<p class="Normal">Recently issued trans-NIH <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11163">policy notices</a> may affect your application submission. A full list of policy notices published by NIH is provided in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11164">NIH Guide for Grants and Contracts</a>. All awards are subject to the terms and conditions, cost principles, and other considerations described in the <a href="//grants.nih.gov/grants/guide/url_redirect.php?id=11120">NIH Grants Policy Statement</a>.</p>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="172250" data-element-required="true" data-element-type="TEXT" data-section-code="OTI" tabindex="0">
+						 Authority and Regulations 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="172250" data-element-required="true" data-element-type="TEXT" data-section-code="OTI">
+<p class="Normal">Awards are made under the authorization of Sections 301 and 405 of the Public Health Service Act as amended (42 USC 241 and 284) and under Federal Regulations 42 CFR Part 52 and 2 CFR Part 200.</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="172251" data-element-required="false" data-element-type="TEXT" data-section-code="OTI">
+<normal class="Normal"></normal>
+</div>
+</div>
+</div> <!-- end row -->
+</div>
+</body>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<p>
+<hr/>
+<a href="/grants/guide/WeeklyIndex.cfm?12-01-23">Weekly TOC for this Announcement</a><br/>
+<a href="/grants/guide/index.html">NIH Funding Opportunities and Notices</a>
+<hr/>
+</p></div>
+</div>
+<div class="row">
+<div class="col-md-4"> <a href="/grants/oer.htm"><img alt="NIH Office of Extramural Research Logo" border="0" src="/images7/nih-oer-logo.jpg" usemap="#Map2"/></a>
+<map id="Map2" name="Map2">
+<area coords="89,17,359,39" href="http://www.nih.gov" shape="rect"/>
+<area coords="91,39,286,58" href="http://grants.nih.gov/grants/oer.htm" shape="rect"/>
+<area coords="3,5,78,55" href="http://grants.nih.gov/grants/oer.htm" shape="rect"/>
+</map>
+</div>
+<div class="col-md-4">
+<div style="float:left; padding: 5 5 5 70"> <a href="http://www.hhs.gov/"><img alt="Department of Health and Human Services (HHS) - Home Page" border="0" desc="Logo, circular in shape, depicting an American eagle in-flight with stylized profiles of human faces appearing on the trailing edge of the wings. The perimeter of the logo is encircled with the words 'Department of Health and Human Services U S A'" height="37" long="" src="/images7/dhhs_sm.gif" width="36"/></a></div>
+<div style="padding: 5 5 5 5;">Department of Health<br/>
+      and Human Services (HHS)</div>
+</div>
+<div class="col-md-4">
+<div align="center" style="padding: 5 5 5 0"> <a href="http://www.usa.gov/"><img alt="USA.gov - Government Made Easy" border="0" desc="Logo,- the words 'USA.gov - Government Made Easy' with single streaking star above the logo" long="" src="/images7/USA_Gov_logo.gif"/></a> </div>
+</div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12" style="padding: 20 5 5 5"> <span style="color:#6E6E6E; font-size:1.0em; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">NIH... Turning Discovery Into Health<sup>®</sup></span> </div>
+</div>
+<div class="row">
+<div align="center" class="col-xs-12">
+</div>
+</div>
+</div>
+</body>
+</html>

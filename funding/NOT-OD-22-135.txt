@@ -1,0 +1,1030 @@
+<!-- Google Tag Manager -->
+<!-- ADDED ON 05/01/2023 -->
+<!-- All services and snippets (AKA tags) have been removed from this file -->
+<!-- They are handled in the ralated container in Google Tag Manger -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR2CDD');</script>
+<!-- End Google Tag Manager -->
+<html lang="en-US">
+<head>
+<title>NOT-OD-22-135: Notice of Special Interest (NOSI): Stimulating Research to Understand and Address Hunger, Food and Nutrition Insecurity</title>
+<meta content="NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Notice of Special Interest (NOSI): Stimulating Research to Understand and Address Hunger, Food and Nutrition Insecurity NOT-OD-22-135. ONR" name="description"/>
+<meta content="NOT-OD-22-135: Notice of Special Interest (NOSI): Stimulating Research to Understand and Address Hunger, Food and Nutrition Insecurity" name="Keywords"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="../guide_styles/css/bootstrap.min.css" media="screen" rel="stylesheet"/>
+<link href="../guide_styles/css/style.css" media="screen" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<body onload="initContent()">
+<div class="container">
+<div class="row">
+<div class="heading1" id="page-title" tabindex="0"></div>
+<div>
+<!--This variable defines that we need to start a new row. -->
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25860" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI">
+<span class="title">Notice of Special Interest (NOSI):  Stimulating Research to Understand and Address Hunger, Food and Nutrition Insecurity</span>
+</div>
+<div class="heading4" data-element-has-value="true" data-element-id="25861" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI" tabindex="0">
+						Notice Number: 					
+				</div>
+<div data-element-has-label="true" data-element-has-value="true" data-element-id="25861" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI">
+<span class="noticenum">NOT-OD-22-135</span>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25862" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<a name="_Key_Dates"></a><h2 class="heading2">Key Dates</h2>
+</div>
+<div class="row" data-index="4">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="25863" data-element-required="true" data-element-type="TEXT" data-section-code="OI" tabindex="0">
+							Release Date: 
+					</div>
+<div class="col-md-8 datacolumn">
+<p class="Normal">June 21, 2022</p>
+</div>
+</div>
+<div class="row" data-index="5">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="25864" data-element-required="true" data-element-type="DATE" data-section-code="OI" tabindex="0">
+							First Available Due Date: 
+					</div>
+<div class="col-md-8 datacolumn">
+			                October 05, 2022 
+            		</div>
+</div>
+<div class="row" data-index="6">
+<div class="col-md-4 datalabel" data-element-has-value="true" data-element-id="25865" data-element-required="true" data-element-type="DATE" data-section-code="OI" tabindex="0">
+							Expiration Date: 
+					</div>
+<div class="col-md-8 datacolumn">
+			                November 29, 2024 
+            		</div>
+</div>
+<!--This variable defines that we need to start a new row. -->
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25866" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<a name="_"></a><h2 class="heading2">Related Announcements</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25867" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/pa-20-227.html">PA-20-227</a> - Administrative Supplements for Research on Dietary Supplements (Admin Supp Clinical Trial Not Allowed)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-150.html" target="_blank">PAR-20-150</a> - NIMHD Exploratory/Developmental Research Grant Program (R21 - Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-180.html" target="_blank">PAR-20-180</a> - Identifying Innovative Mechanisms or Interventions that Target Multimorbidity and Its Consequences (R01 Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-081.html" target="_blank">PAR-21-081</a> - Addressing Health Disparities Among Immigrant Populations through Effective Interventions (R01 Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-104.html">PAR-21-104</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Not Allowed</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-105.html">PAR-21-105</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Required</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-129.html">PAR-21-129</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (Collaborative R01 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-130.html">PAR-21-130</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (R01 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-131.html">PAR-21-131</a> - Pilot Effectiveness Trials for Treatment, Preventive and Services Interventions (R34 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-132.html">PAR-21-132</a> - Confirmatory Efficacy Clinical Trials of Non-Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-136.html">PAR-21-136</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R33 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-137.html">PAR-21-137</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R61/R33 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-160.html">PAR-21-160</a> - NIDCR Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-190.html">PAR-21-190</a>   Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-251.html">PAR-21-251</a>-Emerging Global Leader Award (K43 Independent Clinical Trial Required)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-252.html">PAR-21-252</a>- Emerging Global Leader Award (K43 Independent Clinical Trial Not Allowed)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-316.html">PAR-21-316</a> - Innovative Mental Health Services Research Not Involving Clinical Trials (R01 Clinical Trial Not Allowed)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-341.html">PAR-21-341</a>. Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-358.html" target="_blank">PAR-21-358</a> - Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-22-082.html">PAR-22-082</a> - Innovative Pilot Mental Health Services Research Not Involving Clinical Trials (R34 Clinical Trial Not Allowed)</p>
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/pas-21-031.html">PAS-21-031</a>   Priority HIV/AIDS Research within the Mission of the NIDDK (R01 Clinical Trial Optional)</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25868" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<a name="_"></a><h2 class="heading2">Issued by</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25869" data-element-required="true" data-element-type="LINKED_ELEMENT" data-section-code="OI">
+<p>Office of Nutrition Research (<a href="https://dpcpsi.nih.gov/onr" rel="noreferrer" target="_blank">ONR</a>)
+ 	
+ 	<p>National Heart, Lung, and Blood Institute (<a href="https://www.nhlbi.nih.gov/" rel="noreferrer" target="_blank">NHLBI</a>)
+	</p>
+<p>National Institute of Arthritis and Musculoskeletal and Skin Diseases (<a href="https://www.niams.nih.gov/" rel="noreferrer" target="_blank">NIAMS</a>)
+	</p>
+<p>Eunice Kennedy Shriver National Institute of Child Health and Human Development (<a href="https://www.nichd.nih.gov/" rel="noreferrer" target="_blank">NICHD</a>)
+	</p>
+<p>National Institute of Dental and Craniofacial Research (<a href="https://www.nidcr.nih.gov/" rel="noreferrer" target="_blank">NIDCR</a>)
+	</p>
+<p>National Institute of Diabetes and Digestive and Kidney Diseases (<a href="https://www.niddk.nih.gov/" rel="noreferrer" target="_blank">NIDDK</a>)
+	</p>
+<p>National Institute of Mental Health (<a href="https://www.nimh.nih.gov/index.shtml" rel="noreferrer" target="_blank">NIMH</a>)
+	</p>
+<p>National Institute of Nursing Research (<a href="https://www.ninr.nih.gov/" rel="noreferrer" target="_blank">NINR</a>)
+	</p>
+<p>National Institute on Minority Health and Health Disparities (<a href="https://www.nimhd.nih.gov/" rel="noreferrer" target="_blank">NIMHD</a>)
+	</p>
+<p>Fogarty International Center (<a href="https://www.fic.nih.gov/Pages/Default.aspx" rel="noreferrer" target="_blank">FIC</a>)
+	</p>
+<p>National Cancer Institute (<a href="https://www.cancer.gov/" rel="noreferrer" target="_blank">NCI</a>)
+	</p>
+<p>All applications to this funding opportunity announcement should fall within the mission of the Institutes/Centers. The following NIH Offices may co-fund applications assigned to those Institutes/Centers.
+ 	</p>
+<p>Office of AIDS Research (<a href="https://www.oar.nih.gov/" rel="noreferrer" target="_blank">OAR</a>)
+	</p><p>Division of Program Coordination, Planning and Strategic Initiatives, Office of Disease Prevention (<a href="https://prevention.nih.gov/" rel="noreferrer" target="_blank">ODP</a>)
+		</p>
+<p>Office of Behavioral and Social Sciences Research (<a href="https://obssr.od.nih.gov/" rel="noreferrer" target="_blank">OBSSR</a>)
+		</p>
+<p>Office of Dietary Supplements (<a href="https://ods.od.nih.gov/" rel="noreferrer" target="_blank">ODS</a>)
+		</p>
+<p>Office of Research on Women's Health (<a href="https://orwh.od.nih.gov/" rel="noreferrer" target="_blank">ORWH</a>)
+		</p>
+<p>Office of Nutrition Research (<a href="https://dpcpsi.nih.gov/onr" rel="noreferrer" target="_blank">ONR</a>)
+		</p>
+</p></div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25870" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<a name="_"></a><h2 class="heading2">Purpose</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25871" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<p class="Normal">The purpose of this NOSI is to encourage research on the efficacy of interventions that address nutrition security and the mechanisms of food insecurity on a variety of health outcomes.<br/>
+It also calls for the development of new measures for nutrition security and assessment of food insecurity that are broadly applicable. . It was developed by the <a href="https://dpcpsi.nih.gov/onr">Office of Nutrition Research</a> (ONR) Implementation Working Group on <a href="https://dpcpsi.nih.gov/onr/iwg/nutrition-health-disparities">Nutrition and Health Disparities</a> in collaboration with NIH Institutes and Centers (ICs) and Offices in support of the goals and objectives of the <a href="https://dpcpsi.nih.gov/onr/strategic-plan">Strategic Plan for NIH Nutrition Research</a>.</p>
+<p class="heading4"><strong>Background</strong></p>
+<p class="Normal">Imagine a world without hunger, in which all individuals, families, and communities have ready access to enough affordable, nutritious food to sustain a happy and healthy life. The goal is urgent with levels of hunger, worsened by a weak supply chain that restricts access of nutritious food to underserved populations. The result is a rising incidence of food and nutrition insecurity, which like hunger, stems from many factors beyond food and aligns with lack of access to life-enhancing resources.</p>
+<p class="Normal">Food insecurity   defined as the lack of consistent access to enough food for an active, healthy life   is a major public health concern and was exacerbated due to high rates of unemployment and reduction in work hours during the COVID-19 pandemic. In 2020, the United States Department of Agriculture reported that 13.8 million US households (approximately 10.5 percent of all US households) experienced food insecurity. Food insecurity is inextricably linked to poverty, with 35.3 percent of households with a household income to poverty ratio under 1 being food insecure. Moreover, household food insecurity affected 14.8 percent of households with children and was particularly high in households headed by Black (21.7 percent) or Hispanic (17.2 percent) individuals. Food insecurity has also been noted as a concern for additional subgroups such as the aging population, those that experience disabilities, and American Indian/Alaska Native communities. Related is the concept of nutrition security, which is defined as having consistent access, availability, and affordability of foods and beverages that promote well-being and prevent (and if needed, treat) disease, particularly among racial/ethnic minority populations, lower income populations, and rural and remote populations including Tribal communities and insular areas (USDA). This term is less documented in the research literature and there is no validated measure to assess nutrition security. This is therefore an opportunity for future research.</p>
+<p class="Normal">Food insecurity is related to suboptimal and/or poor diet quality, which increases chronic disease risk among the socioeconomically disadvantaged. Several cross-sectional studies have shown that food insecure adults have lower nutrient intakes and lower Healthy Eating Index scores compared with secure food adults, especially among those with lower incomes. Consequently, food insecurity is associated with increased risk for nutrition-related negative outcomes, such as diabetes, obesity, hypertension, heart disease, and some cancers. Although this association has been examined in the literature, the biological mechanisms are still poorly understood. In addition, there are major gaps in the literature on effective interventions that could mitigate the effects of food insecurity. Therefore, it is important to increase our understanding regarding the influence of food insecurity on the onset and progression of chronic diseases.</p>
+<p class="Normal">Nutrition security and equitable access to healthy and affordable food in the U.S. are public health concerns. According to the USDA, approximately 13.5 million people in the U.S. have limited access to supermarkets or large grocery stores impacting access to healthy foods. Research shows higher diet quality is associated with proximity to and density of food stores, neighborhood socioeconomic status (SES), and perception of healthy food environments, especially for racial and ethnic minority populations. Food environments, such as lack of access to grocery stores and the presence of fast food restaurants at the neighborhood level, are associated with increased risk of hypertension, cardiovascular disease, diabetes, and cancer survival. Elucidating the role of these social and environmental conditions on diet and nutritional status could help to prevent and manage diet-related health disparities and promote health equity. This is therefore an opportunity for future research to advance nutrition equity, including the broad categories below:</p>
+<ol>
+<li class="Normal">Development and testing of interventions, innovative programs, and natural experiments to address food insecurity and neighborhood-level access to healthy and affordable foods;</li>
+<li class="Normal">Research to understand the mechanisms and pathways between food insecurity and neighborhood food environments on wellbeing and health and various health outcomes; and</li>
+<li class="Normal">Studies to develop and validate tools to measure nutrition insecurity and food insecurity.</li>
+</ol>
+<p class="Normal"><strong>Some examples of appropriate studies include, but are <i>not limited to</i>, the following:</strong></p>
+<p class="Normal"><u>Development and testing of interventions, innovative programs, and natural experiments</u>:</p>
+<ul>
+<li class="Normal">Research to test innovative or existing interventions, programs, policies designed to positively affect the availability, access, and affordability of nutritious foods and healthy diets for populations who experience health disparities and vulnerable groups (e.g., minority populations, rural communities, older adults, children/youth and those with special needs, or disabled individuals) in multiple settings;</li>
+<li class="Normal">Research to examine the effectiveness of "Food as Medicine  initiatives that include produce prescription programs, medically tailored meals, and integration of nutrition programs in the healthcare setting;</li>
+<li class="Normal">Evaluation of multi-level, multicomponent interventions designed to reduce nutrition and food insecurity through improvements to neighborhood/community the food environment (e.g., new grocery stores, community markets, or food pantries) and their impact on health outcomes, with those that explicitly consider health equity and the social determinants of health;</li>
+<li class="Normal">Natural experiment research to examine the impact of policies related to the social determinants of health (e.g., minimum wage increases or  living wages , child tax credit) on food insecurity and health outcomes;</li>
+</ul>
+<p class="Normal"><u>Identification of key risk factors and mechanistic pathways through epidemiological research</u></p>
+<ul>
+<li class="Normal">Mechanistic studies exploring the biological and behavioral mechanisms and pathways underpinning the influence of food insecurity on cancer, diabetes, and cardiometabolic disease, including key risk factors (e.g., obesity, hypertension, high cholesterol, and inflammatory markers);</li>
+<li class="Normal">Research to understand the influence of food insecurity on disease prevention, management and progression, including for cancer, HIV, diabetes, and cardiovascular disease;</li>
+<li class="Normal">Examination of the health effects of the intersectionality between household food insecurity and the social determinants of health (e.g., housing or transportation insecurity) as a factor underlying health disparities;</li>
+</ul>
+<ul>
+<li class="Normal">Studies to investigate barriers to nutrition security including social, organizational (e.g., food retail practices, marketing), and policy factors and their role in shaping health outcomes and reducing health disparities;</li>
+<li class="Normal">Examination of how climate change and extreme weather-related disasters affects food production and availability, access, quality, utilization, and stability of food systems.</li>
+</ul>
+<p class="Normal"><u>Development, validation, and evaluation of tools to measure food insecurity and nutrition security</u></p>
+<ul>
+<li class="Normal">Evaluation of novel approaches to screen for and address food insecurity within the healthcare settings (clinical and community settings) in individuals with or at risk of chronic disease;</li>
+<li class="Normal">Development of valid measurements for nutrition security to operationalize the various components of nutrition security including food access, quality, and affordability to maintain optimal health;</li>
+<li class="Normal">Development of methodologies and alternative measures to characterize current food retail environments and consumer behavior, specific to nutrition security and access to healthy, affordable food.</li>
+</ul>
+<p class="Normal">Interdisciplinary research teams (e.g., including behavioral scientists, nutrition researchers, academic physicians, economists, systems scientists, etc.) are encouraged.</p>
+<p class="Normal">The Office of Nutrition Research (ONR) will convene annual virtual meetings which will serve as a forum to share study results, best practices for community engagement, and important lessons learned during the conduct of these studies. All awardees supported through this NOSI are encouraged to attend these annual virtual meetings and should so indicate in the cover letter.</p>
+<p class="Normal">Non-responsive applications will not be reviewed and will be withdrawn from consideration for this initiative.</p>
+<p class="Normal">Applicants are strongly encouraged to reach out to the relevant scientific contacts to discuss whether their applications are responsive.</p>
+<p class="heading4"><b>Specific Areas of Research Interest</b></p>
+<p class="Normal"><u><strong>Fogarty International Center (FIC)</strong></u></p>
+<p class="Normal">FIC is dedicated to advancing the mission of the NIH by supporting and facilitating global health research conducted by U.S. and international investigators, building partnerships between health research institutions in the U.S. and abroad, and training the next generation of scientists to address global health needs. FIC is interested in applications that examine the topics above in a global setting. In particular, FIC encourages applications that address food diversity, including local sources and the nutritional value of traditional, local foods, intra-household food allocations, the food environment, and individual and population genetic differences in physiology and metabolism related to foods and nutrition as well as those that employ innovative approaches to design, implementation, and scale-up of evidence-based global food insecurity interventions.</p>
+<p class="Normal"><u>FIC’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background:white; border-collapse:collapse; border:none">
+<tbody>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">K43</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-251.html">PAR-21-251</a>-Emerging Global Leader Award (K43 Independent Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">November 3, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">K43</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-252.html">PAR-21-252</a>- Emerging Global Leader Award (K43 Independent Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">November 3, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">K01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-104.html">PAR-21-104</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Not Allowed</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">March 8, 2023</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">K01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-105.html">PAR-21-105</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Required</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">March 8, 2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal"><b><u>National Cancer Institute (NCI) </u></b></p>
+<p class="Normal">NCI encourages applications that examine the role of individual and household food and nutrition insecurity, and the neighborhood food environment influences cancer risk and outcomes across the cancer control continuum. Applications that focus on testing the efficacy, effectiveness, and implementation of multilevel interventions to mitigate and address the impact of food and nutrition insecurity in eliminating health disparities and reducing inequalities are encouraged. Additionally, NCI encourages interventions to assess barriers, facilitators, and costs to inform dissemination and equitable reach, delivery, and implementation across populations. NCI also encourages systems epidemiology approaches that incorporate high-dimensional measurements from multiple domains, assess interconnections and feedback loops between risk factors, and consider changes over time, utilizing advanced statistical methods, computational modeling, or simulations. NCI is interested in applications that develop, validate, and evaluate new methodologies, measures, and novel approaches to assess food and nutrition insecurity in health disparity populations and other understudied groups, including screening and risk assessment tools in cancer care delivery settings. Additionally, applications that assess how household food and nutrition insecurity influences mechanisms and pathways that worsen cancer treatment and cancer care management are of interest. NCI is interested in the contextual examination of programs and policy interventions at organizational, community, state, and federal levels that evaluate factors including access, availability, affordability, and acceptability to support healthy food environments to promote cancer prevention and control. NCI encourages applications in partnership with historically underserved communities experiencing cancer health disparities.</p>
+<p class="Normal"><u>NCI’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="border-collapse:collapse">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 122px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 474px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 150px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 122px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 474px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-190.html">PAR-21-190</a>   NCI Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 150px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">November 08, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 122px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 474px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 150px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">October 05, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 122px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R21</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 474px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-341.html">PAR-21-341</a>. Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 150px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 07, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Heart, Lung, and Blood Institute (NHLBI)</u></b></p>
+<p class="Normal">NHLBI is interested in applications that address any or all the topics above particularly those focusing on the mechanisms linking food and nutrition insecurity to diseases and conditions relevant to heart, lung, blood, and sleep. Additionally, interventions to address food or nutrition security, including the neighborhood food environment, are encouraged. Note that NHLBI only accepts <a href="https://www.nhlbi.nih.gov/node-general/frequently-asked-questions-mechanistic-clinical-trials">mechanistic clinical trials</a> and therefore applications in response to <a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> and Basic Experimental Studies with Humans (BESH) trials, <a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-184.html">PA-20-184</a>, under the R01 mechanism which must include interventions designed to understand a biological or behavioral process, the pathophysiology of a disease, or the mechanism of action of an intervention to address food or nutrition insecurity. Such mechanistic trials must include as the research question  how the intervention works  rather than  does the intervention work.  Applications addressing efficacy or effectiveness clinical trials must apply using the PAR 19-328, <a href="https://grants.nih.gov/grants/guide/pa-files/par-19-328.html">R61/R33 single site clinical trial mechanism</a> or the PAR 19-329, <a href="https://grants.nih.gov/grants/guide/pa-files/par-19-329.html">UG3/UH3 multi-site clinical trial mechanism</a>. Applicants cannot reference this NOSI in their application when using the R61/R33 or UG3/UH3 mechanisms but may indicate their interest in a cover letter.</p>
+<p class="Normal"><u>NHLBI’s FOAs for this NOSI include the following or their subsequent reissue equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 748px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 124px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 469px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 154px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 124px; padding: 0in 7px; height: 36px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 469px; padding: 0in 7px; height: 36px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 154px; padding: 0in 7px; height: 36px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 124px; padding: 0in 7px; height: 53px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 469px; padding: 0in 7px; height: 53px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 154px; padding: 0in 7px; height: 53px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Institute on Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</u></b></p>
+<p class="Normal">NIAMS is interested in applications that examine how food and nutrition insecurity are related to disease management and progression among populations with or at risk for development of NIAMS core-mission diseases (arthritic and other rheumatic, musculoskeletal, and skin disorders). NIAMS is also interested in observational studies identifying shared barriers to food and nutrition security and accessible medical care for patients with arthritic and other rheumatic, musculoskeletal, and skin diseases. Studies among  health disparity populations and other understudied groups are encouraged. Note that NIAMS will only accept applications in response to PA-20-185.</p>
+<p class="Normal"><u>NIAMS’s FOA for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 751px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 126px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 468px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 156px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 126px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 468px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 156px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>Eunice Kennedy Shriver National Institute of Child Health and Human Development (</u></b><b><u>NICHD</u></b><b><u>)</u></b></p>
+<p class="Normal">NICHD is interested in applications that address any or all topics above with particular focus on the mechanistic studies exploring the factors underpinning the influence of food insecurity related to conception and pregnancy, typical and atypical development in childhood, and reproductive health. Additionally, NICHD encourages applications including studies focused on developmental impact of food insecurity on diet and nutrition, the microbiome, physical activity, sleep, and stress. NICHD also encourages applications that examine the timing of these exposures and the opportunity to either prevent or mitigate poor outcomes will be a primary focus across childhood and adolescence.</p>
+<p class="Normal"><u>NICHD’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 752px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 123px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 471px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 156px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 123px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 471px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 156px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 123px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 471px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 156px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Institute of Dental and Craniofacial Research (NIDCR)</u></b></p>
+<p class="Normal">NIDCR supports research on food insecurity that contributes to dental, oral, and craniofacial diseases and conditions, exacerbation of oral health disparities, as well as research studies of dental care providers  contributions to the broader public health efforts of advancing food equity.</p>
+<p class="Normal"><strong>Areas of interest include but are not limited to:</strong></p>
+<ul>
+<li class="Normal">Research to understand the influence of food and nutritional insecurity on oral and craniofacial health, disease management and progression.</li>
+<li class="Normal">Research to characterize barriers and facilitators of food security linked to oral and craniofacial health for vulnerable populations (minority populations, rural communities, older adults, those with special needs, or disabled individuals).</li>
+<li class="Normal">Research on the use of innovative approaches to improve nutritional health (food security) linked to oral and craniofacial health within vulnerable populations.</li>
+</ul>
+<p class="Normal">Investigators proposing research that meets the <a href="https://grants.nih.gov/policy/clinical-trials/definition.htm">NIH definition of clinical trials</a> are strongly advised to use NIDCR’s UG3/UH3 mechanism and are encouraged to contact program staff. Please see <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-DE-21-014.html">NOT-DE-21-014</a> for information about NIDCR’s clinical trials program.</p>
+<p class="Normal"><u>NIDCR’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 757px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 123px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 481px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 152px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 123px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 481px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 152px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 123px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">UG3/UH3</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 481px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-160.html">PAR-21-160</a> - NIDCR Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 152px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 04, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Institute of Diabetes and Digestive and Kidney Diseases (</u></b><b><u>NIDDK</u></b><b><u>)</u></b></p>
+<p class="Normal">NIDDK is interested in applications focused on understanding how food and nutrition insecurity contribute to development, progression and/or management of diseases and conditions within its mission (diabetes and other endocrine and metabolic diseases; digestive diseases, nutritional disorders, and obesity; and kidney, urologic, and hematologic diseases), and the development of strategies for improving food security and related health outcomes among health disparity populations and other understudied groups  with or at risk for these diseases across the lifespan. NIDDK has many research areas within its mission, but all research related to relevant diseases may not be appropriate for NIDDK. <b>Applicants are strongly encouraged to contact NIDDK </b>staff as soon as possible in the development of the application, so that NIDDK staff can help the applicant understand whether the proposed project is within the goals and mission of the Institute.</p>
+<p class="Normal">Areas of interest include but are not limited to:</p>
+<ul>
+<li class="Normal">Research on the impact of food and nutrition insecurity on biological processes within NIDDK’s mission.</li>
+<li class="Normal">Research on behavioral mechanisms whereby food and nutrition insecurity impact behavioral pathways that contribute to the initiation or exacerbation of diseases and conditions within NIDDK’s mission.</li>
+<li class="Normal">Research on how food and nutrition insecurity act as barriers to patient engagement by people with NIDDK-relevant diseases and conditions related to self-management activities, health seeking behavior, and/or retention in care.</li>
+<li class="Normal">Policy/program evaluation ( natural experiments ) related to the food environment for NIDDK-relevant diseases and conditions.</li>
+<li class="Normal">Descriptive and intervention research to address health behavior determinants and NIDDK-relevant disease outcomes at one or more levels of influence, including the individual/person, interpersonal (e.g., caregiver/family, provider), organizational/institutional (e.g., healthcare setting, workplace), community and/or societal levels.</li>
+<li class="Normal">Research on health disparities and health equity within NIDDK’s mission, including those that address intersecting marginalized identities.</li>
+</ul>
+<p class="Normal"><u>NIDDK’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="border-collapse: collapse; width: 761px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 124px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 483px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 151px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 124px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 483px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 151px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 124px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 483px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 151px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">October 05, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 124px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 483px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/pas-21-031.html">PAS-21-031</a>   Priority HIV/AIDS Research within the Mission of the NIDDK (R01 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 151px; padding: 0in 7px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal"><u><b>National Institute of Mental Health (NIMH)</b></u></p>
+<p class="Normal">NIMH will support research with human subjects or deidentified existing datasets. No research using vertebrate subjects or model systems will be considered. NIMH’s interests in this FOA include but are not limited to the following:</p>
+<p class="Normal"><b>Translational Research</b></p>
+<ul>
+<li class="Normal">Mechanistic studies exploring the biological and behavioral mechanisms underpinning the influence of food insecurity on neurodevelopmental risk and resilience for psychopathology across the lifespan and across diverse populations.</li>
+<li class="Normal">Studies examining the interactions of food insecurity and other social determinants of health (e.g., housing or transportation insecurity) as a factor underlying mental health disparities.</li>
+<li class="Normal">Studies examining how food insecurity influences clinical care across the lifespan, including as a hidden factor influencing diagnosis or treatment efficacy.</li>
+</ul>
+<p class="Normal"><b>Interventions Development and Services Research</b></p>
+<ul>
+<li class="Normal">Efficacy studies that examine how moderators related to food insecurity influence novel or established psychosocial/pharmacological interventions as they relate to both mechanisms of mental disorders (cognitive, attention, memory, etc.) and clinical outcomes</li>
+<li class="Normal">Natural experiment research that examines the mechanisms through which policies related to the social determinants of health (e.g., minimum wage increases or  living wages , child tax credit; guaranteed incomes, housing vouchers) impact food insecurity and mental health outcomes</li>
+<li class="Normal">Research to test innovative or existing interventions, programs, policies designed to positively affect the availability, access, and affordability of nutritious foods and healthy diets for populations who experience mental health disparities and vulnerable groups (e.g., minority populations, rural communities, older adults, children/youth and those with special needs, or disabled individuals) in multiple settings</li>
+<li class="Normal">Mechanisms by which multi-level, multicomponent interventions designed to reduce nutrition and food insecurity through improvements to neighborhood/community the food environment (e.g., new grocery stores, community markets, or food pantries) impact mental health outcomes, with those that explicitly consider health equity and the social determinants of health</li>
+<li class="Normal">Examinations of the downstream impact of policies and programs designed to mitigate the impact of food and nutrition insecurity on:
+	<ul style="list-style-type:circle">
+<li class="Normal">Mental health service utilization (including preventive care, engagement with and adherence to mental health treatment, other self-management behaviors, quality of mental health care received)</li>
+<li class="Normal">Mental health outcomes (e.g., suicidal behavior, depression, anxiety)</li>
+<li class="Normal">The mechanisms by which addressing food insecurity affects mental health service utilization and/or outcomes.</li>
+</ul>
+</li>
+</ul>
+<p class="Normal"><b>HIV-related Research</b></p>
+<ul>
+<li class="Normal">Multi-level mechanistic studies examining the biological, behavioral, social, and structural interactions of food insecurity and other social determinants of health (e.g., housing or transportation insecurity) as a factor underlying HIV disparities both domestically as in Low- and Middle-Income Countries (LMICs)</li>
+<li class="Normal">Multi-level, multicomponent food insecurity interventions designed to improve mental health and HIV health outcomes, along with examination of change mechanisms</li>
+<li class="Normal">Innovative intersectional insecurity (e.g., food, economic, and housing) approaches to reduce empirically documented disparities in HIV outcomes for racial and ethnic minorities and other marginalized and underserved groups including HIV-affected populations in LMICs.</li>
+</ul>
+<p class="Normal"><b>Global Mental Health Research</b></p>
+<ul>
+<li class="Normal">The areas identified under Translational Research and Interventions Development and Services Research with a population emphasis on migrants, especially women and children</li>
+<li class="Normal">Research to assess and treat malnutrition due to food insecurity among migrants or displaced populations with a focus on children</li>
+<li class="Normal">Research to understand the role of gender in the experience food insecurity</li>
+<li class="Normal">Research to understand the role of climate change-driven events in food insecurity and biopsychosocial outcomes among migrants or displaced populations</li>
+</ul>
+<p class="Normal">For research on the effectiveness of interventions or services, NIMH supports studies that employ an experimental therapeutics approach, whereby clinical trials are designed not only to test the intervention effects on outcomes of interest, but also to inform understanding of the intervention’s mechanisms of action. As such, applications that propose to develop and/or test the efficacy/effectiveness of preventive, therapeutic or services interventions must include specification of the intervention target(s)/mechanism(s) and assessment of intervention-induced changes in the presumed target mechanism(s) that are hypothesized to account for the mental health intervention outcome. In the case of services interventions, targets/mechanisms might involve mutable consumer- or provider-behaviors, or organizational-/system-level factors that are intervened upon in order to improve access, continuity, quality, equity, and/or value of services. See the<a href="https://www.nimh.nih.gov/funding/opportunities-announcements/clinical-trials-foas/index.shtml">Support for Clinical Trials at NIMH</a> web page for additional information regarding dedicated Funding Opportunity Announcements (FOAs) for NIMH clinical trials research support.</p>
+<p class="Normal"><u>NIMH’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background:white; border-collapse:collapse; border:none">
+<tbody>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; border-top:1px solid black; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 5, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">Collaborative R01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-129.html">PAR-21-129</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (Collaborative R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-130.html">PAR-21-130</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R34</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-131.html">PAR-21-131</a> - Pilot Effectiveness Trials for Treatment, Preventive and Services Interventions (R34 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-132.html">PAR-21-132</a> - Confirmatory Efficacy Clinical Trials of Non-Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R33</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-136.html">PAR-21-136</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R33 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R61/R33</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-137.html">PAR-21-137</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R61/R33 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 14, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-316.html">PAR-21-316</a> - Innovative Mental Health Services Research Not Involving Clinical Trials (R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 5, 2022</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom:1px solid black; width:119px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:1px solid black" valign="top">
+<p class="Normal">R34</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:330px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-22-082.html">PAR-22-082</a> - Innovative Pilot Mental Health Services Research Not Involving Clinical Trials (R34 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom:1px solid black; width:162px; padding:0in 7px 0in 7px; height:47px; border-top:none; border-right:1px solid black; border-left:none" valign="top">
+<p class="Normal">October 16, 2022</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Institute on Minority Health and Health Disparities (NIMHD)</u></b></p>
+<p class="Normal">The mission of the NIMHD is to lead scientific research to improve minority health and reduce health disparities. NIMHD focuses on all aspects of health and health care for racial and ethnic minority populations in the U.S. and the full continuum of health disparity causes as well as the interrelation of these causes. NIMHD projects must include a focus on one or more of the following populations that NIH-designates as experiencing health disparities in the United States and its territories: African Americans, Latinos/Hispanics, American Indians and Alaska Natives, Asian Americans, Native Hawaiians and other Pacific Islanders, less privileged socioeconomic groups, underserved rural populations, and sexual and gender minorities. Comparison groups/populations may also be included as appropriate for the research questions posed. NIMHD encourages research projects that use approaches encompassing multiple domains of influence (e.g., biological, behavioral, sociocultural, environmental, physical environment, health system) and multiple levels of influence (e.g., individual, interpersonal, family, peer group, community, societal) in food and nutrition insecurity to understand and address health disparities (see the NIMHD Research Framework, https://www.nimhd.nih.gov/about/overview/research-framework.html, for more information). Studies based outside the U.S. or its territories will not be supported by NIMHD.</p>
+<p class="Normal"><u>NIMHD’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 762px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 125px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-358.html" target="_blank">PAR-21-358</a> - Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-081.html" target="_blank">PAR-21-081</a> - Addressing Health Disparities Among Immigrant Populations through Effective Interventions (R01 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-180.html" target="_blank">PAR-20-180</a> - Identifying Innovative Mechanisms or Interventions that Target Multimorbidity and Its Consequences (R01 Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R21</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 489px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-150.html" target="_blank">PAR-20-150</a> - NIMHD Exploratory/Developmental Research Grant Program (R21 - Clinical Trial Optional)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 147px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 16, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>National Institute of Nursing Research (NINR)</u></b></p>
+<p class="Normal">The National Institute of Nursing Research (NINR) supports research to solve pressing health challenges and inform practice and policy - optimizing health and advancing health equity into the future. NINR discovers solutions to health challenges through the lenses of health equity, social determinants of health, population and community health, prevention and health promotion, and systems and models of care. Drawing on the strengths of nursing’s holistic, contextualized perspective, core values, and broad reach, NINR funds multilevel and cross-sectoral research that examines the factors that impact health across the many settings in which nurses work, including homes, schools, workplaces, clinics, justice settings, and the community. Observational, intervention, and implementation research are of interest.</p>
+<p class="Normal"><u>NINR’s FOAs for this NOSI include the following or their subsequent reissued equivalents:</u></p>
+<table class="Table" style="background: white; border-collapse: collapse; border: none; width: 762px;">
+<tbody>
+<tr>
+<td class="Normal" style="border-width: 1px; border-style: solid; border-color: black; width: 125px; padding: 0in 7px;" valign="top">
+<p class="Normal">Activity Code</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 494px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">FOA</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 141px; padding: 0in 7px; border-top: 1px solid black; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal">First Available Application Due Date</p>
+</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 494px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 141px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+<tr>
+<td class="Normal" style="border-bottom: 1px solid black; width: 125px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: 1px solid black;" valign="top">
+<p class="Normal">R01</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 494px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</td>
+<td class="Normal" style="border-bottom: 1px solid black; width: 141px; padding: 0in 7px; height: 47px; border-top: none; border-right: 1px solid black; border-left: none;" valign="top">October 05, 2022</td>
+</tr>
+</tbody>
+</table>
+<p class="Normal"><sub>.</sub></p>
+<p class="Normal"><b><u>Office of AIDS Research (OAR)</u></b></p>
+<p class="Normal">The Office of AIDS Research (OAR) is part of the NIH Office of the Director and works in partnership with the NIH Institutes, Centers, and Offices in its coordination of the NIH HIV Research Program and to ensure that HIV/AIDS research is aligned with the <a href="https://www.oar.nih.gov/sites/default/files/NIH_StrategicPlan_FY2021-2025.pdf" target="_blank"><i>NIH Strategic Plan for HIV and HIV-Related Research</i></a>. Food insecurity influences HIV risk behaviors, prevention, and treatment. Inaccessibility to food and adequate nutrition impact uptake of HIV prevention strategies and technologies; uptake and adherence to HIV treatment, including anti-retroviral therapy; and HIV-related mortality. For these reasons, research to better understand and address the dynamics of food and nutrition insecurity in HIV prevention, treatment, and care are of interest. Examples of research of interest include interventions to improve food and nutrition contexts and dynamics in relation to the adoption, uptake, and maintenance of HIV prevention and/or treatment options and practices, including engagement with community programs and health care systems. This includes studies identifying how food and nutrition insecurity interact with biological and/or socio-behavioral mechanisms and pathways associated with HIV-related comorbidities and complications.</p>
+<p class="Normal">OAR does not award grants but co-funds HIV-related applications and research projects that have received an award from one the participating NIH Institutes and Centers (ICs) listed in the announcement. Projects must align with at least one of the strategic goals and objectives outlined in the <a href="https://www.oar.nih.gov/sites/default/files/NIH_StrategicPlan_FY2021-2025.pdf" target="_blank"><i>NIH Strategic Plan for HIV and HIV-Related Research</i></a><em> . </em>Please contact the relevant ICO Scientific/Research Contact(s) listed with any questions regarding ICO research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>The Office of Behavioral and Social Sciences Research (OBSSR)</u></b></p>
+<p class="Normal">The Office of Behavioral and Social Sciences Research (OBSSR) is the lead office at the NIH responsible for enhancing the impact of health-related behavioral and social sciences research by coordinating behavioral and social sciences research conducted or supported by the NIH and integrating these sciences within the larger NIH research enterprise. OBSSR is interested in topics that focus on social and environmental factors related to health as well as focus on interventions, natural experiment evaluation, understanding mechanisms, and measurement tools. OBSSR is specifically interested in behavioral mechanisms associated with changing food behaviors as well as measurement of person/family-based risk and resilience. OBSSR is also interested in interventions that not only include system and policy level approaches but incorporate person/family based behavioral and psychological needs/vulnerabilities into intervention approaches to facilitate improved food security adoption and healthier eating patterns.</p>
+<p class="Normal">OBSSR does not award grants, therefore, applications must be relevant to the objectives of at least one of the participating NIH Institutes and Centers (IC) listed in this announcement. Please contact the relevant IC Scientific/Research Contact(s) listed for questions regarding IC research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>Office of Disease Prevention (ODP)</u></b></p>
+<p class="Normal">The Office of Disease Prevention (ODP) is the lead office at the NIH responsible for assessing, facilitating, and stimulating research in disease prevention. In partnership with the 27 NIH Institutes and Centers, the ODP strives to increase the scope, quality, dissemination, and impact of NIH-supported prevention research. The ODP is interested in providing co-funding support for research that has strong implications for disease prevention and health equity and that include innovative and appropriate research design, measurement, and analysis methods. The ODP has a specific interest in projects that develop and/or test preventive interventions. For this NOSI, ODP is interested in supporting research to understand the mechanisms of the influence of food and nutrition insecurity and their impact on disease prevention and research that examines the effectiveness of food as medicine initiatives and approaches, as described above. The ODP is also interested in research that elucidates the role of social and environmental conditions on diet and nutritional status and how it helps to prevent diet-related health disparities and promote health equity. The ODP is also interested in multi-level, multicomponent interventions designed to reduce nutrition and food insecurity through improvements to the food environment and their impact on health outcomes, with those that explicitly consider health equity and the social determinants of health.</p>
+<p class="Normal">The ODP does not award grants; therefore, applications must be relevant to the objectives of at least one of the participating NIH Institutes and Centers (IC) listed in this announcement. Please contact the relevant IC Scientific/Research Contact(s) listed for questions regarding IC research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>Office of Dietary Supplements (ODS)</u></b></p>
+<p class="Normal">The Office of Dietary Supplements (ODS) supports research that strengthens the knowledge and understanding of dietary supplement use. ODS is interested in providing co-funding support for research on the role of dietary supplements in the prevention of disease and the maintenance of health. Dietary supplement ingredients include vitamins, minerals, herbs and other botanicals, amino acids, and other dietary or bioactive substances, consumed as dietary supplements to promote health and prevent disease.</p>
+<p class="Normal">For this NOSI, ODS is interested in research that addresses development, validation, and evaluation of tools to measure food insecurity and nutrition security in terms of dietary intake, dietary supplement use, total nutrient intakes from all sources, and nutritional status, and screening for undernutrition and frailty. ODS also encourages research on development and use of validated biomarkers of nutrient exposure and status, and methodological issues in assessing dietary intake and supplement use in food insecure communities. Additionally, research that characterizes patterns of dietary intake and supplement use in special groups at risk of hunger and nutrition insecurity, such as<strong> </strong>infants and children, females of reproductive age, pregnant and lactating women, and older adults, as well as associated demographic, lifestyle, health status, and disease risk factors, are of interest.</p>
+<p class="Normal">The ODS does not award grants but co-funds applications and/or research projects, therefore, applications must be relevant to the objectives of at least one of the participating NIH Institutes and Centers (IC) listed in this announcement. Please contact the relevant IC Scientific/Research Contact(s) listed for questions regarding IC research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>Office of Nutrition Research (ONR)</u></b></p>
+<p class="Normal">The Office of Nutrition Research (ONR) develops, leads, and manages trans-NIH nutrition research initiatives in cooperation with the ICs and other NIH Offices. The ONR also coordinates implementation of the <a href="https://dpcpsi.nih.gov/onr/strategic-plan" target="_blank">Strategic Plan for NIH Nutrition Research</a> through <a href="https://dpcpsi.nih.gov/onr/iwg">Implementation Working Groups (IWGs)</a>. The ONR IWGs develop research initiatives or programs, including this NOSI, that fulfill the objectives and cross-cutting research areas outlined within the Strategic Plan.</p>
+<p class="Normal">The ONR does not award grants but co-funds applications and/or research projects, therefore, applications must be relevant to the objectives of at least one of the participating NIH Institutes and Centers (IC) listed in this announcement. Please contact the relevant IC Scientific/Research Contact(s) listed for questions regarding IC research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b><u>Office of Research on Women’s Health (ORWH)</u></b></p>
+<p class="Normal">The Office of Research on Women’s Health (ORWH) is part of the Office of the Director of NIH and works in partnership with the 27 NIH Institutes and Centers to ensure that women's health research is part of the scientific framework at the NIH, and throughout the health research community. ORWH encourages research that considers the influence of sex, gender and other social determinants of health and disease, focusing on their impact on women’s health across the lifespan. ORWH is interested in co-funding applications that address any of the research topics outlined in the background section of the Notice of Special Interest and align with the <a href="https://www.nih.gov/women/strategicplan">Trans-NIH Strategic Plan for Women’s Health Research</a>. ORWH is particularly interested in research on the impact of food insecurity on vulnerable populations (such as women/girls in rural areas, women living in food deserts, and pregnant or postpartum persons).</p>
+<p class="Normal">There is also interest in the use of research methods which disaggregate and analyze data by sex, gender, and intersectional factors such as race/ethnicity, age, and socioeconomic status. ORWH is interested in research that examines mechanisms linking food and nutrition insecurity to diseases and conditions relevant to girls and women across the life course. For example, mechanistic studies on what is called the Food-Insecurity Obesity Paradox, and research on culturally appropriate interventions that mitigate the impact of the Food-insecurity Obesity paradox on women.</p>
+<p class="Normal">ORWH does not award grants but co-funds applications and/or research projects that have received an award from one the participating NIH Institutes and Centers (ICs) listed in the announcement and which research goal is aligned with at least one of the strategic goals and objectives outlined in the <a href="https://www.nih.gov/women/strategicplan">Trans-NIH Strategic Plan for Women’s Health Research</a>. Please contact the relevant IC Scientific/Research Contact(s) listed for questions regarding IC research priorities and funding.</p>
+<p class="Normal">.</p>
+<p class="Normal"><b>Application and Submission Information</b></p>
+<p class="Normal">This notice applies to due dates on or after October 5, 2022 and subsequent receipt dates through November 29, 2024.</p>
+<p class="Normal">Submit applications for this initiative using one of the following funding opportunity announcements (FOAs) or any reissues of these announcement through the expiration date of this notice.</p>
+<ul>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-183.html">PA-20-183</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html">PA-20-185</a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/pa-20-227.html">PA-20-227</a> - Administrative Supplements for Research on Dietary Supplements (Admin Supp Clinical Trial Not Allowed)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-150.html" target="_blank">PAR-20-150</a> - NIMHD Exploratory/Developmental Research Grant Program (R21 - Clinical Trial Optional)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-20-180.html" target="_blank">PAR-20-180</a> - Identifying Innovative Mechanisms or Interventions that Target Multimorbidity and Its Consequences (R01 Clinical Trial Optional)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-081.html" target="_blank">PAR-21-081</a> - Addressing Health Disparities Among Immigrant Populations through Effective Interventions (R01 Clinical Trial Optional)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-104.html">PAR-21-104</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Not Allowed</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-105.html">PAR-21-105</a>- International Research Scientist Development Award (IRSDA) Independent Clinical Trial Required</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-129.html">PAR-21-129</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (Collaborative R01 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-130.html">PAR-21-130</a> - Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (R01 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-131.html">PAR-21-131</a> - Pilot Effectiveness Trials for Treatment, Preventive and Services Interventions (R34 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-132.html">PAR-21-132</a> - Confirmatory Efficacy Clinical Trials of Non-Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-136.html">PAR-21-136</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R33 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-137.html">PAR-21-137</a> - Early Stage Testing of Pharmacologic or Device-based Interventions for the Treatment of Mental Disorders (R61/R33 Clinical Trial Required)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-160.html">PAR-21-160</a> - NIDCR Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-190.html">PAR-21-190</a>   Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)</p>
+</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-251.html">PAR-21-251</a>-Emerging Global Leader Award (K43 Independent Clinical Trial Required)</p>
+</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/par-21-252.html">PAR-21-252</a>- Emerging Global Leader Award (K43 Independent Clinical Trial Not Allowed)</p>
+</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-316.html">PAR-21-316</a> - Innovative Mental Health Services Research Not Involving Clinical Trials (R01 Clinical Trial Not Allowed)</p>
+</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-341.html">PAR-21-341</a>. Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)</p>
+</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-21-358.html" target="_blank">PAR-21-358</a> - Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)</li>
+<li class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/PAR-22-082.html">PAR-22-082</a> - Innovative Pilot Mental Health Services Research Not Involving Clinical Trials (R34 Clinical Trial Not Allowed)</li>
+<li class="Normal">
+<p class="Normal"><a href="https://grants.nih.gov/grants/guide/pa-files/pas-21-031.html">PAS-21-031</a>   Priority HIV/AIDS Research within the Mission of the NIDDK (R01 Clinical Trial Optional)</p>
+</li>
+</ul>
+<p class="Normal">All instructions in the <a href="https://grants.nih.gov/grants/how-to-apply-application-guide.html">SF424 (R&amp;R) Application Guide</a> and the funding opportunity announcement used for submission must be followed, with the following additions:</p>
+<p class="Normal">For funding consideration, applicants must include  NOT-OD-22-135  (without quotation marks) in the Agency Routing Identifier field (box 4B) of the SF424 R&amp;R form. Applications without this information in box 4B will not be considered for this initiative.</p>
+<p class="Normal">Applications nonresponsive to terms of this NOSI will not be considered for the NOSI initiative.</p>
+<p class="Normal">Applicants must select the IC and associated FOA to use for submission of an application in response to the NOSI. The selection must align with the IC requirements listed in order to be considered responsive to that FOA. Non-responsive applications will be withdrawn from consideration for this initiative. In addition, applicants using NIH Parent announcements (listed below) will be assigned to those ICs on this NOSI that have indicated those FOAs are acceptable and based on usual application-IC assignment practices.</p>
+<p class="Normal">  PA-20-183-NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+<p class="Normal">  PA-20-185-NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25872" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<p class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt; margin-left:0in"><b>Application and Submission Information</b></p>
+<p class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt; margin-left:0in">This notice applies to due dates on or after October 5, 2022 and subsequent receipt dates through November 29, 2024 </p>
+<p class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt; margin-left:0in"> </p>
+<p class="Normal">Applicants must select the IC and associated FOA to use for submission of an application in response to the NOSI. The selection must align with the IC requirements listed in order to be considered responsive to that FOA. Non-responsive applications will be withdrawn from consideration for this initiative. In addition, applicants using NIH Parent announcements (listed below) will be assigned to those ICs on this NOSI that have indicated those FOAs are acceptable and based on usual application-IC assignment practices.</p>
+<p class="Normal">  PA-20-183-NIH Research Project Grant (Parent R01 Clinical Trial Required)</p>
+<p class="Normal">  PA-20-185-NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</p>
+<p class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt; margin-left:0in">Submit applications for this initiative using one of the following funding opportunity announcements (FOAs) or any reissues of these announcement through the expiration date of this notice.</p>
+<ul>
+<li class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-19-055.html">PA-19-055</a> - NIH Research Project Grant (Parent R01 Clinical Trial Required)</li>
+<li class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-19-056.html">PA-19-056 </a> - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)</li>
+<li class="Normal" style="margin-top:0in; margin-right:0in; margin-bottom:7.5pt"><a href="https://grants.nih.gov/grants/guide/pa-files/PA-19-091.html">PA-19-091</a>   NIH Research Project Grant (Parent R01 Basic Experimental Studies with Humans Required)</li>
+</ul>
+<p class="Normal" style="margin-right:0in; margin-left:0in">All instructions in the <a href="https://grants.nih.gov/grants/how-to-apply-application-guide.html">SF424 (R&amp;R) Application Guide</a> and the funding opportunity announcement used for submission must be followed, with the following additions:</p>
+<ul>
+<li class="Normal" style="margin-right:0in">For funding consideration, applicants must include  NOT-OD-22-135  (without quotation marks) in the Agency Routing Identifier field (box 4B) of the SF424 R&amp;R form. Applications without this information in box 4B will not be considered for this initiative.</li>
+</ul>
+</div>
+<div data-element-has-label="false" data-element-has-value="false" data-element-id="25873" data-element-required="false" data-element-type="CUSTOM" data-section-code="OI">
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25874" data-element-required="true" data-element-type="RADIO_BUTTON" data-section-code="OI">
+<p class="Normal"><span style="background:white">Applications nonresponsive to terms of this NOSI will not be considered for the NOSI initiative.</span></p>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25875" data-element-required="true" data-element-type="TEXT" data-section-code="OI">
+<a name="_"></a><h2 class="heading2">Inquiries</h2>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25876" data-element-required="true" data-element-type="RADIO_BUTTON" data-section-code="OI">
+<font face="Verdana">Please direct all inquiries to the Scientific/Research, Peer Review, and Financial/Grants Management contacts in Section VII of the listed funding opportunity announcements.</font>
+</div>
+<div data-element-has-label="false" data-element-has-value="true" data-element-id="25877" data-element-required="false" data-element-type="TEXT" data-section-code="OI">
+<p class="heading4" style="margin: 1em 0in 6pt;"><b>Scientific/Research Contact(s) </b></p>
+<p class="Normal" style="margin: 1em 0in 6pt;"> </p>
+<p class="Normal">Marya Levintova, PhD</p>
+<p class="Normal">Fogarty International Center (FIC)</p>
+<p class="Normal">Telephone: 301-496-9535</p>
+<p class="Normal">Email: <a href="mailto:marya.levintova@nih.gov">marya.levintova@nih.gov</a></p>
+<p class="Normal" style="margin: 1em 0in 6pt;">Tanya Agurs-Collins, PhD</p>
+<p class="Normal">National Cancer Institute (NCI)</p>
+<p class="Normal">Telephone: 240-276-6956</p>
+<p class="Normal">Email: <a href="mailto:collinsta@mail.nih.gov">collinsta@mail.nih.gov</a></p>
+<p class="Normal">Alison Brown, PhD, RDN</p>
+<p class="Normal">National Heart, Lung, and Blood Institute (NHLBI)</p>
+<p class="Normal">Telephone: 301-435-0583</p>
+<p class="Normal">Email: <a href="mailto:Alison.Brown@nih.gov">Alison.Brown@nih.gov</a></p>
+<p class="Normal">Stephanie George, PhD, MPH, MA</p>
+<p class="Normal">National Institute on Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</p>
+<p class="Normal">Telephone: 301-594-4974</p>
+<p class="Normal">Email: <a href="mailto:stephanie.george@nih.gov">stephanie.george@nih.gov</a></p>
+<p class="Normal">Kimberlea Gibbs, MPH, RDN, CHES<br/>
+Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)<br/>
+Telephone: 301-529-7393<br/>
+E-mail:<a href="mailto:Kimberlea.gibbs@nih.gov">Kimberlea.gibbs@nih.gov</a></p>
+<p class="Normal">Margaret M. Grisius, DDS</p>
+<p class="Normal">National Institute of Dental and Craniofacial Research (NIDCR)</p>
+<p class="Normal">Telephone: 301-451-5096</p>
+<p class="Normal">Email: <a href="mailto:margaret.grisius@nih.gov">margaret.grisius@nih.gov</a></p>
+<p class="Normal">Peter J. Perrin, Ph.D.</p>
+<p class="Normal">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</p>
+<p class="Normal">Telephone: 301-451-3759</p>
+<p class="Normal">Email: <a href="mailto:Peter.Perrin@nih.gov">Peter.Perrin@nih.gov</a></p>
+<p class="Normal">Lynn Adams, PhD</p>
+<p class="Normal">National Institute of Nursing Research (NINR)</p>
+<p class="Normal">Telephone: 301-594-8911</p>
+<p class="Normal">Email: <a href="mailto:adamsls@nih.gov">adamsls@nih.gov</a></p>
+<p class="Normal">Priscah Mujuru DR.PH, RN.</p>
+<p class="Normal">National Institute on Minority Health and Health Disparities (NIMHD)</p>
+<p class="Normal">Telephone: 301-594-9765</p>
+<p class="Normal">Email: <a href="mailto:mujurup@mail.nih.gov">mujurup@mail.nih.gov</a></p>
+<p class="Normal">.</p>
+<p class="Normal">Natalie Tomitch, MPH, MBA</p>
+<p class="Normal">Office of AIDS Research (OAR)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the Director</p>
+<p class="Normal">Telephone: 301-451-0098</p>
+<p class="Normal">Email: <a href="mailto:tomitchn@od.nih.gov">tomitchn@od.nih.gov</a></p>
+<p class="Normal">Wendy B. Smith, MA, PhD, BCB</p>
+<p class="Normal">Office of Behavioral and Social Sciences Research (OBSSR)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the Director</p>
+<p class="Normal">Telephone: 301-435-3718</p>
+<p class="Normal">Email: <a href="mailto:smithwe@nih.gov">smithwe@nih.gov</a></p>
+<p class="Normal">Bramaramba Kowtha, MS, RDN, LDN</p>
+<p class="Normal">Office of Disease Prevention (ODP)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the NIH Director</p>
+<p class="Normal">Telephone: 301-435-8052</p>
+<p class="Normal">Email: <a href="mailto:bramaramba.kowtha@nih.gov">bramaramba.kowtha@nih.gov</a></p>
+<p class="Normal">Patricia A. Haggerty, Ph.D.</p>
+<p class="Normal">Office of Dietary Supplements (ODS)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the Director</p>
+<p class="Normal">Telephone: 301-529-4884</p>
+<p class="Normal">Email: <a href="mailto:patricia.haggerty@nih.gov">patricia.haggerty@nih.gov</a></p>
+<p class="Normal">Christopher Lynch, PhD</p>
+<p class="Normal">Office of Nutrition Research (ONR)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the NIH Director</p>
+<p class="Normal">Telephone: 301-827-3988</p>
+<p class="Normal">Email: <a href="mailto:Christopher.Lynch@nih.gov">Christopher.Lynch@nih.gov</a></p>
+<p class="Normal">Regine A. Douthard, MD, MPH</p>
+<p class="Normal">Office of Research on Women’s Health (ORWH)</p>
+<p class="Normal">Division of Program Coordination, Planning, and Strategic Initiatives</p>
+<p class="Normal">Office of the NIH Director</p>
+<p class="Normal">Telephone: 301-451-2729</p>
+<p class="Normal">Email: <a href="mailto:douthardr@mail.nih.gov">douthardr@mail.nih.gov</a></p>
+<p>Marjorie Garvey, Ph.D.</p>
+<p class="Normal">National Institute of Mental Health (NIMH)</p>
+<p class="Normal"> Telephone: 301-443-4491</p>
+<p class="Normal">Email:<a href="mailto:garveym@mail.nih.gov">garveym@mail.nih.gov</a></p>
+<p class="heading4"><b>Peer Review Contact(s) </b></p>
+<p class="Normal">Examine your eRA Commons account for review assignment and contact information (information appears two weeks after the submission due date).</p>
+<p class="heading4"><b>Financial/Grants Management Contact(s) </b></p>
+<p class="Normal" style="margin: 0in 0in 6pt;"> </p>
+<p class="Normal">Bruce Butrum</p>
+<p class="Normal">Fogarty International Center (FIC)</p>
+<p class="Normal">Telephone: 301-496-1670</p>
+<p class="Normal">Email: <a href="mailto:butrumb@mail.nih.gov">butrumb@mail.nih.gov</a></p>
+<p class="Normal">Dawn M. Mitchum, MPH, CRA</p>
+<p class="Normal">National Cancer Institute (NCI)</p>
+<p class="Normal">Telephone: 240-276-5699</p>
+<p class="Normal">Email:<a href="mailto:dmitchum@mail.nih.gov">dmitchum@mail.nih.gov</a></p>
+<p class="Normal">Francesca Alicia Hunter</p>
+<p class="Normal">National Heart, Lung, and Blood Institute (NHLBI)</p>
+<p class="Normal">Phone: none</p>
+<p class="Normal">E-mail: <a href="mailto:francesca.hunter@nih.gov">francesca.hunter@nih.gov</a></p>
+<p class="Normal">Leslie Littlejohn</p>
+<p class="Normal">National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</p>
+<p class="Normal">Phone: (301) 594-2545</p>
+<p class="Normal">E-mail: <a href="mailto:littlele@mail.nih.gov">littlele@mail.nih.gov</a></p>
+<p class="Normal">Margaret Young</p>
+<p class="Normal">Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</p>
+<p class="Normal">Telephone: 301-642-4552</p>
+<p class="Normal">Email: <a href="mailto:margaret.young@nih.gov">margaret.young@nih.gov</a></p>
+<p class="Normal">Diana Rutberg, MBA</p>
+<p class="Normal">National Institute of Dental &amp; Craniofacial Research (NIDCR)</p>
+<p class="Normal">Phone: (301) 594-4798</p>
+<p class="Normal">E-mail: <a href="mailto:dr258t@nih.gov">dr258t@nih.gov</a></p>
+<p class="Normal">Sunshine Wilson</p>
+<p class="Normal">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</p>
+<p class="Normal">Phone: 301-827-4670</p>
+<p class="Normal">Email: <a href="mailto:sunshine.wilson@nih.gov">sunshine.wilson@nih.gov</a></p>
+<p class="Normal">Terri Jarosik</p>
+<p class="Normal">National Institute of Mental Health (NIMH)</p>
+<p class="Normal">Telephone: 301-443-3858</p>
+<p class="Normal">Email: <a href="mailto:tjarosik@mail.nih.gov">tjarosik@mail.nih.gov</a></p>
+<p class="Normal">Priscilla Grant, JD</p>
+<p class="Normal">National Institute on Minority Health and Health Disparities (NIMHD)</p>
+<p class="Normal">Phone: 301-594-8412</p>
+<p class="Normal">E-mail: <a href="mailto:pg38h@nih.gov">pg38h@nih.gov</a></p>
+<p class="Normal">Ron Wertz</p>
+<p class="Normal">National Institute of Nursing Research (NINR)</p>
+<p class="Normal">Telephone: 301-594-2807</p>
+<p class="Normal">Email: <a href="mailto:wertzr@mail.nih.gov">wertzr@mail.nih.gov</a></p>
+
+</div>
+</div>
+</div> <!-- end row -->
+</div>
+</body>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<p>
+<hr/>
+<a href="/grants/guide/WeeklyIndex.cfm?06-24-22">Weekly TOC for this Announcement</a><br/>
+<a href="/grants/guide/index.html">NIH Funding Opportunities and Notices</a>
+<hr/>
+</p></div>
+</div>
+<link href="css/notices_print.css " media="print" rel="stylesheet" type="text/css">
+<div class="row">
+<div class="footer">
+<div class="col-sm-4"> <a href="/grants/oer.htm"><img alt="NIH Office of Extramural Research Logo" border="0" src="/images7/nih-oer-logo.jpg" usemap="#Map2"/></a>
+<map id="Map2" name="Map2">
+<area coords="89,17,359,39" href="http://www.nih.gov" shape="rect"/>
+<area coords="91,39,286,58" href="http://grants.nih.gov/grants/oer.htm" shape="rect"/>
+<area coords="3,5,78,55" href="http://grants.nih.gov/grants/oer.htm" shape="rect"/>
+</map>
+</div>
+<div class="col-sm-4">
+<div style="float:left; padding: 5 5 5 70"> <a href="http://www.hhs.gov/"><img alt="Department of Health and Human Services (HHS) - Home Page" border="0" desc="Logo, circular in shape, depicting an American eagle in-flight with stylized profiles of human faces appearing on the trailing edge of the wings. The perimeter of the logo is encircled with the words 'Department of Health and Human Services U S A'" height="37" long="" src="/images7/dhhs_sm.gif" width="36"/></a></div>
+<div style="padding: 5 5 5 5;">Department of Health<br/>
+and Human Services (HHS)</div>
+</div>
+<div class="col-sm-4">
+<div align="center" style="padding: 5 5 5 0"> <a href="http://www.usa.gov/"><img alt="USA.gov - Government Made Easy" border="0" desc="Logo,- the words 'USA.gov - Government Made Easy' with single streaking star above the logo" long="" src="/images7/USA_Gov_logo.gif"/></a> </div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="footer">
+<div align="center" class="col-xs-12" style="padding: 20 5 5 5"> <span style="color:#6E6E6E; font-size:1.0em; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">NIH... Turning Discovery Into Health<sup>®</sup></span> </div>
+</div>
+</div>
+<div class="row">
+<div class="footer">
+<div align="center" class="col-xs-12">
+</div>
+</div>
+</div>
+</link></div>
+</body>
+</html>
